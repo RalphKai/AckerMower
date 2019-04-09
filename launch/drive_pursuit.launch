@@ -1,0 +1,58 @@
+<launch>
+	
+	<!-- node name="plant" pkg="mower" type="drive_tf.py" output="screen"/ -->
+	<node name="odom_pub" pkg="mower" type="mower_odom.py" output="screen" />
+	
+        <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find mower)/urdf/mower_body.urdf.xacro'" />
+    	<node name="map_server" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map1.yaml"/>
+    	<node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 0 /map /odom 120"/>
+	
+
+	<include file="$(find mower)/launch/imu.launch" />
+	<node name="mower_laser_tf" pkg="mower" type="tf_broadcaster" />
+
+
+    	<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+    	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+	<include file="$(find moveit_cfg)/launch/planning_context.launch"/>
+	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
+		<rosparam file="$(find mower)/param/ekf.yaml" command="load" />
+	</node>
+	<node name="cmd_converter" pkg="mower" type="cmd_converter.py"/>
+    	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find mower)/rviz/mower_teb.rviz" />
+
+	<node name="amcl" pkg="amcl" type="amcl">
+		<param name="initial_pose_x" value="0.6"/>
+		<param name="initial_pose_y" value="0.6"/>
+	</node>
+        
+    	<!-- Navigation (move_base) -->
+    	
+    	<node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+        	<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="global_costmap"/>
+		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="local_costmap"/>
+		<rosparam file="$(find mower)/config/global_costmap.yaml" command="load" />		
+		<rosparam file="$(find mower)/config/local_costmap.yaml" command="load" />      
+        <!-- Global Planner -->
+        	<param name="base_global_planner" value="global_planner/GlobalPlanner" />
+        	<param name="planner_frequency" value="0.0" />
+        	<param name="planner_patience" value="5.0" />
+        	<rosparam file="$(find hypharos_minicar)/launch/params/global_planner.yaml" command="load" />
+        <!-- Local Planner -->
+        	<param name="base_local_planner" value="base_local_planner/TrajectoryPlannerROS" />
+        <!-- Our carlike robot is not able to rotate in place -->
+        	<param name="clearing_rotation_allowed" value="false" /> 
+
+    	</node>
+	
+	
+	<!--  ****** Pure Pursuit ******  -->
+    	<node name="Pure_Pursuit" pkg="hypharos_minicar" type="Pure_Pursuit" output="screen" >
+        <rosparam file="$(find hypharos_minicar)/launch/params/pure_pursuit/pure_pursuit_params.yaml" command="load" />                                                                                                            
+        <remap from="/pure_pursuit/odom" to="/odom" />
+        <remap from="/pure_pursuit/global_planner" to="/move_base/GlobalPlanner/plan" />
+        <remap from="/pure_pursuit/goal" to="/move_base_simple/goal" />
+        <remap from="/pure_pursuit/ackermann_cmd" to="/ackermann_cmd" />
+    </node>
+
+</launch>

@@ -1,0 +1,15 @@
+<launch>
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find mower)/urdf/mower_body.urdf.xacro'" />
+    <node name="map_server" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map1.yaml"/>
+    <node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 0 /map /odom 100"/>
+    <node name="odom_publisher" pkg="mower" type="testRviz" />
+    <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+    
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find mower)/rviz/mower.rviz" required="true"/>
+    <arg name="gui" default="True" />
+    <param name="use_gui" value="$(arg gui)"/>
+    
+
+</launch>
+

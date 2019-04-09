@@ -1,0 +1,19 @@
+<launch>
+        <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find mower)/urdf/mower_body.urdf.xacro'" />
+    	<node name="map_server" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map1.yaml"/>
+    	<node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 0 /map /odom 100"/>
+
+    	<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+    	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+
+	<node name="amcl" pkg="amcl" type="amcl" />
+
+        <node pkg="move_base" type="move_base" respawn="false" name="moveBase">
+		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="global_costmap"/>
+		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="local_costmap"/>
+		<rosparam file="$(find mower)/config/local_costmap.yaml" command="load" />
+		<rosparam file="$(find mower)/config/global_costmap.yaml" command="load" />
+		<rosparam file="$(find mower)/config/base_local_planner.yaml" command="load"/>
+	</node>
+
+</launch>

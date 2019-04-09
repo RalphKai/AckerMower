@@ -1,0 +1,16 @@
+<launch>
+	<node name="keyboard_control" pkg="rosserial_python" type="serial_node.py">
+	            <param name="port" value="/dev/ttyACM0"/>
+	            <param name="baud" value="38400" />
+	</node>
+
+	<node name="keyboard_node" pkg="mower" type="keyboardEstimate.py" />
+
+	<node name="hallsensor" pkg="rosserial_python" type="serial_node.py">
+	            <param name="port" value="/dev/ttyACM1"/>
+	            <param name="baud" value="38400" />
+	</node>
+
+	<node name="hall" pkg="mower" type="hall_odometry.py" />
+
+</launch>

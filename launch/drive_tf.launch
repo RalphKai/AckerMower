@@ -1,0 +1,38 @@
+<launch>
+	
+	<node name="plant" pkg="mower" type="drive_tf.py" output="screen"/>
+	
+	<include file="$(find mower)/launch/imu.launch" />
+	
+	<!-- start laser-->      
+  　      
+        <include file="$(find realsense2_camera)/launch/rs_rgbd.launch"></include>  
+
+    	<node pkg="depthimage_to_laserscan" type="depthimage_to_laserscan" name="depthimage_to_laserscan">
+
+    	<remap from="image" to="/camera/depth/image_rect_raw"/>
+
+    	<param name="scan_height" value="10"/>
+    	
+　　　　	<param name="scan_time" value="0.03"/>
+    	
+    	<param name="range_min" value="0.45"/>
+    	
+    	<param name="range_max" value="8.00"/>
+
+  	</node>
+
+	<node name="mower_laser_tf" pkg="mower" type="tf_broadcaster" />
+
+
+
+
+	
+	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
+		<rosparam file="$(find mower)/param/ekf.yaml" command="load" />
+	</node>
+
+
+
+
+</launch>
