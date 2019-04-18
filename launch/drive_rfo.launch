@@ -1,23 +1,15 @@
 <launch>
 
-    	<arg name="init_x" default="0.6" />
+	<arg name="init_x" default="0.6" />
     	<arg name="init_y" default="0.6" />
     	<arg name="init_a" default="0" />
 
-	<node name="odom_pub" pkg="mower" type="mower_odom.py" output="screen" />
-	
         <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find mower)/urdf/mower_body.urdf.xacro'" />
-	
-	<node name="map_server_amcl" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map_amcl.yaml">
+    	<node name="map_server_amcl" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map_amcl.yaml">
 		<remap from="map" to="map_amcl"/>
 	</node>
 
     	<node name="map_server_nav" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map2.yaml"/>
-
-	
-
-    	<!--node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 1 /map_amcl /map 100"/-->
-	
 
 	<include file="$(find mower)/launch/imu.launch" />
 
@@ -32,10 +24,17 @@
     	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
 	<include file="$(find moveit_cfg)/launch/planning_context.launch"/>
 
-	<!--node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true"-->
-		<!--rosparam file="$(find mower)/param/ekf.yaml" command="load" /-->
-		<!-- remap from="/odometry/filtered" to="/odom"/ -->
-	<!--/node-->
+	<node pkg="rf2o_laser_odometry" type="rf2o_laser_odometry_node" name="rf2o_laser_odometry">
+		<param name="laser_scan_topic" value="scan"/>
+		<param name="base_frame_id" value="base_link"/>
+		<param name="odom_frame_id" value="odom"/>
+		<param name="freq" value="10.0"/>
+	</node>
+
+	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
+		<rosparam file="$(find mower)/param/ekf_rfo.yaml" command="load" />
+		<remap from="/odometry/filtered" to="/odom"/>
+	</node>
 
 	<node name="cmd_converter" pkg="mower" type="cmd_converter.py" required="true" output="screen"/>
 
@@ -59,7 +58,7 @@
 		<param name="planner_frequency" value="1.0" />
 		<param name="planner_patience" value="5.0" />
 		<param name="base_local_planner" value="teb_local_planner/TebLocalPlannerROS"/>
-		<param name="controller_frequency" value="10.0" />
+		<param name="controller_frequency" value="5.0" />
 		<param name="controller_patience" value="15.0" />
 		
 		<!--param name="base_global_planner" value="global_planner/GlobalPlanner"/>

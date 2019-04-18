@@ -1,0 +1,31 @@
+digraph G {
+"camera_link" -> "camera_depth_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"scan" -> "camera_link"[label="Broadcaster: /base_link2laser_link2\nAverage rate: 33.130 Hz\nMost recent transform: 1555476793.001 ( -0.008 sec old)\nBuffer length: 4.920 sec\n"];
+"camera_depth_frame" -> "camera_depth_optical_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_color_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_aligned_depth_to_color_frame" -> "camera_color_optical_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_aligned_depth_to_color_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_infra1_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_aligned_depth_to_infra1_frame" -> "camera_infra1_optical_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_aligned_depth_to_infra1_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_infra2_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_aligned_depth_to_infra2_frame" -> "camera_infra2_optical_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"camera_link" -> "camera_aligned_depth_to_infra2_frame"[label="Broadcaster: /camera/realsense2_camera_manager\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"base_link" -> "pillar_back_left"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"odom" -> "base_link"[label="Broadcaster: /odom_pub\nAverage rate: 210.033 Hz\nMost recent transform: 1555476792.984 ( 0.009 sec old)\nBuffer length: 4.856 sec\n"];
+"base_link" -> "pillar_back_right"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"base_link" -> "pillar_front_left"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"base_link" -> "pillar_front_right"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"base_link" -> "top_link"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1555476792.993 sec old)\nBuffer length: 0.000 sec\n"];
+"base_link" -> "scan"[label="Broadcaster: /base_link2laser_link\nAverage rate: 33.106 Hz\nMost recent transform: 1555476792.997 ( -0.004 sec old)\nBuffer length: 4.924 sec\n"];
+"map" -> "odom"[label="Broadcaster: /amcl\nAverage rate: 29.879 Hz\nMost recent transform: 1555476793.444 ( -0.451 sec old)\nBuffer length: 4.886 sec\n"];
+"base_link" -> "imu"[label="Broadcaster: /base_link2imu\nAverage rate: 32.930 Hz\nMost recent transform: 1555476793.022 ( -0.029 sec old)\nBuffer length: 4.889 sec\n"];
+"base_link" -> "tyer_back_left"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1555476792.922 ( 0.071 sec old)\nBuffer length: 4.800 sec\n"];
+"base_link" -> "tyer_back_right"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1555476792.922 ( 0.071 sec old)\nBuffer length: 4.800 sec\n"];
+"base_link" -> "tyer_front_left"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1555476792.922 ( 0.071 sec old)\nBuffer length: 4.800 sec\n"];
+"base_link" -> "tyer_front_right"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1555476792.922 ( 0.071 sec old)\nBuffer length: 4.800 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1555476792.993"[ shape=plaintext ] ;
+ }->"map";
+}

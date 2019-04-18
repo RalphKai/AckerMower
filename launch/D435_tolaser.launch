@@ -3,7 +3,7 @@
   　      
     <include file="$(find realsense2_camera)/launch/rs_rgbd.launch"></include>  
 
-    <!-- Run the depthimage_to_laserscan node -->s
+    <!-- Run the depthimage_to_laserscan node -->
     <node pkg="depthimage_to_laserscan" type="depthimage_to_laserscan" name="depthimage_to_laserscan">
     
     <remap from="image" to="/camera/depth/image_rect_raw"/>
@@ -14,9 +14,9 @@
     <!--扫描之间的时间（秒）。 通常情况下，1.0 / frame_rate。 这个值不容易从连续的消息中计算出来，因此留给用户正确设置。   -->
 　　　　<param name="scan_time" value="0.03"/>
     <!--返回的最小范围（以米为单位）。小于该范围的输出将作为-Inf输出。-->
-    <param name="range_min" value="0.45"/>
+    <param name="range_min" value="0.15"/>
     <!--返回的最大范围（以米为单位）。大于此范围将输出为+ Inf。-->
-    <param name="range_max" value="8.00"/>
+    <param name="range_max" value="6.00"/>
   </node>
 </launch>
 

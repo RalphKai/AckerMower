@@ -2,38 +2,49 @@
 import roslib
 import rospy
 
-from math import cos, sin, pi
+from math import cos, sin, pi, atan
 import tf
 
 from geometry_msgs.msg import Twist
+from std_msgs.msg import Float32
 
 class Converter():
 	def __init__(self):
 		self.cmd_x = 0
-    		self.cmd_th = 0
+    		self.cmd_vth = 0
+		self.conv_th = 0
     		self.pwm_x = 0
     		self.vy = 0
     		self.pwm_th = 0
-	    	self.cmd_publisher = rospy.Publisher("/cmd_vel_toMotor", Twist, queue_size = 10)
+		self.rpm = 0
+	    	self.cmd_publisher = rospy.Publisher("/cmd_vel_toMotor", Twist, queue_size = 3)
 	    	self.cmd_listener = rospy.Subscriber("/cmd_vel", Twist, self.callback)
-	    	rospy.Rate(3)
+		rospy.Rate(5)
+		self.sensor_subscriber = rospy.Subscriber("/sensing", Float32, self.call_back_sensor)
+	    	rospy.Rate(5)
 	    	#rospy.spin()
 
 	def forward_cmd(self):
 		#global x
 		#global vx
-		self.pwm_x = (self.cmd_x + 11.603) / 0.082 # 140 + (self.x/0.37) * 6
-		rospy.loginfo("pwm_x:"+str(self.pwm_x))
+		self.pwm_x = (self.cmd_x + 11.603) / 0.082 #0.082 # 140 + (self.x/0.37) * 6
+		if self.pwm_x > 140 and self.pwm_x < 144:
+			self.pwm_x = 144
+		# rospy.loginfo("pwm_x:"+str(self.pwm_x))
 
 	def backward_cmd(self):
 		rospy.loginfo("backward----------------------!!")
 		#global vx
-		self.pwm_x = 135
+		if self.rpm < 1 and self.pwm_x == 105:
+			self.pwm_x = 130
+			self.pub_new_cmd()
+			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
+		else:
+			pass
+		
+	def callback_backward(self, event):
+		self.pwm_x = 105
 		self.pub_new_cmd()
-		rospy.sleep(0.65)
-		self.pwm_x = 110
-		self.pub_new_cmd()
-		rospy.sleep(1)
 
 	def idle(self):
 		# global vx
@@ -52,24 +63,38 @@ class Converter():
 		else:
 			self.idle()
 
-		if self.cmd_th > 0:
-			self.pwm_th = 28 + (self.cmd_th/0.25) * 28
-	  
-		elif self.cmd_th < 0:
-			self.pwm_th = 28 - (self.cmd_th/0.25) * 28
+		if self.cmd_vth > 0:
+			self.pwm_th = (self.conv_th + 16.4882) / 0.71   # 27 + (self.cmd_th/0.25) * 25
+	  		if self.pwm_th > 54:
+				self.pwm_th = 54
+
+		elif self.cmd_vth < 0:
+			self.pwm_th = (self.conv_th + 21.2323) / (0.82)   # 27 - (self.cmd_th/0.39) * 25
+			if self.pwm_th < 0:
+				self.pwm_th = 0
 		
 		else:
-			self.pwm_th = 28
+			self.pwm_th = 27
 
 		self.pub_new_cmd()
 		
+	def convert_trans_rot_vel_to_steering_angle(self, v, omega, wheelbase):
+  		if omega == 0 or v == 0:
+    			return 0
+
+  		radius = v / omega
+  		return (atan(wheelbase / radius) ) * (180/pi)
+	def call_back_sensor(self, data):
+		self.rpm = data.data
+	
 	def callback(self, cmd):
 		#global x
 		#global th
 		self.cmd_x = cmd.linear.x
-		self.cmd_th = cmd.angular.z
-	
-		rospy.loginfo("callback_converter:"+str(self.cmd_x)+", " +str(self.cmd_th)+"----------------")
+		self.cmd_vth = cmd.angular.z
+		self.conv_th = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.cmd_vth, 0.285)
+		#rospy.loginfo("callback_converter:"+str(self.cmd_x)+", " +str(self.cmd_vth)+", " + str(self.conv_th)+ "----------------")
+
 	def pub_new_cmd(self):
 		#global vx
 		#global vth
@@ -91,8 +116,8 @@ if __name__ == '__main__':
     current_time = rospy.Time.now()
     while not rospy.is_shutdown():
     	converter.processing()
-    	rospy.loginfo("I'm in converter!!")
-	rospy.sleep(0.1)
+    	# rospy.loginfo("I'm in converter!!")
+	rospy.sleep(0.05)
     # rospy.spin()
     
   except rospy.ROSInterruptException:
