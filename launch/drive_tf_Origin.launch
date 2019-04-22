@@ -19,7 +19,7 @@
     	<!--node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 1 /map_amcl /map 100"/-->
 	
 
-	<include file="$(find mower)/launch/imu.launch" />
+	<!--include file="$(find mower)/launch/imu.launch" /-->
 
 	<!--<node name="mower_laser_tf" pkg="mower" type="tf_broadcaster" />-->
 	

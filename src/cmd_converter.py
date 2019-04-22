@@ -17,6 +17,8 @@ class Converter():
     		self.vy = 0
     		self.pwm_th = 0
 		self.rpm = 0
+		self.last_time = rospy.Time.now()
+		self.current = self.last_time
 	    	self.cmd_publisher = rospy.Publisher("/cmd_vel_toMotor", Twist, queue_size = 3)
 	    	self.cmd_listener = rospy.Subscriber("/cmd_vel", Twist, self.callback)
 		rospy.Rate(5)
@@ -28,55 +30,80 @@ class Converter():
 		#global x
 		#global vx
 		self.pwm_x = (self.cmd_x + 11.603) / 0.082 #0.082 # 140 + (self.x/0.37) * 6
-		if self.pwm_x > 140 and self.pwm_x < 144:
-			self.pwm_x = 144
+		if self.pwm_x > 140 and self.pwm_x < 144.5:
+			self.pwm_x = 144.5
+		self.pub_new_cmd()
 		# rospy.loginfo("pwm_x:"+str(self.pwm_x))
 
 	def backward_cmd(self):
 		rospy.loginfo("backward----------------------!!")
 		#global vx
-		if self.rpm < 1 and self.pwm_x == 105:
+		'''while(self.rpm<1 or self.pwm_x != 100):
+			self.pwm_x = 100
+			self.pub_new_cmd()
+			self.pwm_x = 130
+			self.pub_new_cmd()
+			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)'''
+		self.current = rospy.Time.now()
+		if self.rpm < 1 and self.pwm_x == 100 and (self.current - self.last_time) == 1:	# backward failed at last time
+			
+			self.pwm_x = 130
+			self.pub_new_cmd()
+			self.pwm_x = 100
+			self.pub_new_cmd()
 			self.pwm_x = 130
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
-		else:
+			self.last_time = rospy.Time.now()
+
+		elif self.rpm >= 1 and self.pwm_x == 100:	# backward continue
+			pass
+
+		elif self.pwm_x != 100:		# other situations need reverse motion
+			self.pwm_x = 130
+			self.pub_new_cmd()
+			self.pwm_x = 100
+			self.pub_new_cmd()
+			self.pwm_x = 130
+			self.pub_new_cmd()
+			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
+			self.last_time = rospy.Time.now()
+		else:		# in case 
 			pass
 		
 	def callback_backward(self, event):
-		self.pwm_x = 105
+		self.pwm_x = 100
 		self.pub_new_cmd()
 
 	def idle(self):
 		# global vx
-		self.pwm_x = 130	
+		self.pwm_x = 130
+		self.pub_new_cmd()	
 
 	def processing(self):
 		#global x
 		#global th
 		#global vth
 
-		if self.cmd_x > 0:
-			self.forward_cmd()
-		elif self.cmd_x < 0:
-			self.idle()
-			self.backward_cmd()
-		else:
-			self.idle()
-
 		if self.cmd_vth > 0:
 			self.pwm_th = (self.conv_th + 16.4882) / 0.71   # 27 + (self.cmd_th/0.25) * 25
 	  		if self.pwm_th > 54:
 				self.pwm_th = 54
-
 		elif self.cmd_vth < 0:
 			self.pwm_th = (self.conv_th + 21.2323) / (0.82)   # 27 - (self.cmd_th/0.39) * 25
 			if self.pwm_th < 0:
 				self.pwm_th = 0
-		
 		else:
 			self.pwm_th = 27
+		
+		if self.cmd_x > 0:
+			self.forward_cmd()
+		elif self.cmd_x < 0:
+			self.backward_cmd()
+		else:
+			self.idle()
 
-		self.pub_new_cmd()
+		
 		
 	def convert_trans_rot_vel_to_steering_angle(self, v, omega, wheelbase):
   		if omega == 0 or v == 0:
@@ -84,6 +111,7 @@ class Converter():
 
   		radius = v / omega
   		return (atan(wheelbase / radius) ) * (180/pi)
+
 	def call_back_sensor(self, data):
 		self.rpm = data.data
 	

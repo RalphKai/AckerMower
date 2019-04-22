@@ -23,7 +23,7 @@ class Self_odom():
 		self.vth = 0.
 		self.yaw = 0
 		self.rpm = 0
-		self.odom_broadcaster = tf.TransformBroadcaster()
+		self.tf_broadcaster = tf.TransformBroadcaster()
 		self.odom_pub = rospy.Publisher("/odom", Odometry, queue_size=10)
 		self.cmd_subscriber = rospy.Subscriber("/cmd_vel", Twist, self.call_back_cmd)
 		rospy.Rate(10)
@@ -43,7 +43,10 @@ class Self_odom():
 		
 
 	def call_back_cmd(self, cmd):	
-		self.cmd_x = cmd.linear.x	
+		self.cmd_x = cmd.linear.x
+		if self.cmd_x <= 0.246 and self.cmd_x >0:
+			self.cmd_x = 0.246
+ 	
 		self.z = cmd.angular.z 
 		rospy.loginfo("cmd_from_teb: "+ str(self.cmd_x) + ", "+ str(self.z))
 		
@@ -51,7 +54,7 @@ class Self_odom():
 	def tf_config(self):
 		#rospy.loginfo("odomcallback_check:"+ str(self.rpm) + ", "+str(self.cmd_x))
 		if self.cmd_x>0 and self.rpm>0:
-			self.vx = self.cmd_x * 0.95# + 0.1 * ((self.rpm+11.603)/0.082)
+			self.vx = self.cmd_x  # + 0.1 * ((self.rpm+11.603)/0.082)
 			#rospy.loginfo("odomcallback vx: "+ str(self.vx))
 		elif self.cmd_x<0 and self.rpm>0:
 			self.vx = self.cmd_x 
@@ -61,13 +64,13 @@ class Self_odom():
 
 		if self.z>0:
 			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = ( self.vx * tan(steering) )
+			self.vth = ( self.vx * tan(steering) / 0.285)
 			# angular = 28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular*(pi/180)) )/ 0.284
 			# rospy.loginfo(rospy.get_caller_id() +" turn_angle: "+ str(steering)+", vz: "+ str(self.vth))
 		elif self.z<0:
 			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = ( self.vx * tan(steering) )
+			self.vth = ( self.vx * tan(steering)/ 0.285)
 			# angular = -28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular)*(pi/180) )/ 0.284
 			
@@ -104,7 +107,7 @@ class Self_odom():
 		odom_quat = tf.transformations.quaternion_from_euler(0, 0, self.th)
 		rospy.loginfo("pub_tf: " + str(self.x) + ", "+ str(self.y) +", " +str(yaw))
 
-		self.odom_broadcaster.sendTransform(
+		self.tf_broadcaster.sendTransform(
 			(self.x, self.y, 0.0),
 			odom_quat,
 			self.current_time,

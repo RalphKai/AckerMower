@@ -16,7 +16,8 @@ Panels:
         - /Polygon1
         - /Polygon2
         - /LaserScan1
-        - /PoseArray2
+        - /PoseArray1
+        - /Map3
       Splitter Ratio: 0.636029422
     Tree Height: 415
   - Class: rviz/Selection
@@ -244,22 +245,6 @@ Visualization Manager:
       Update Interval: 0
       Value: true
     - Alpha: 1
-      Arrow Length: 0.300000012
-      Axes Length: 0.300000012
-      Axes Radius: 0.00999999978
-      Class: rviz/PoseArray
-      Color: 255; 25; 0
-      Enabled: true
-      Head Length: 0.0700000003
-      Head Radius: 0.0299999993
-      Name: PoseArray
-      Shaft Length: 0.230000004
-      Shaft Radius: 0.00999999978
-      Shape: Arrow (Flat)
-      Topic: /particlecloud
-      Unreliable: false
-      Value: true
-    - Alpha: 1
       Class: rviz_plugin_tutorials/Imu
       Color: 204; 51; 204
       Enabled: false
@@ -295,7 +280,7 @@ Visualization Manager:
       Buffer Length: 1
       Class: rviz/Path
       Color: 170; 0; 0
-      Enabled: true
+      Enabled: false
       Head Diameter: 0.300000012
       Head Length: 0.200000003
       Length: 0.300000012
@@ -313,7 +298,7 @@ Visualization Manager:
       Shaft Length: 0.100000001
       Topic: /moveBase/TebLocalPlannerROS/global_plan
       Unreliable: false
-      Value: true
+      Value: false
     - Alpha: 1
       Buffer Length: 1
       Class: rviz/Path
@@ -399,7 +384,7 @@ Visualization Manager:
       Axes Radius: 0.00999999978
       Class: rviz/PoseArray
       Color: 255; 25; 0
-      Enabled: true
+      Enabled: false
       Head Length: 0.0700000003
       Head Radius: 0.0299999993
       Name: PoseArray
@@ -408,6 +393,46 @@ Visualization Manager:
       Shape: Arrow (Flat)
       Topic: /moveBase/TebLocalPlannerROS/teb_poses
       Unreliable: false
+      Value: false
+    - Alpha: 1
+      Axes Length: 1
+      Axes Radius: 0.100000001
+      Class: rviz/PoseWithCovariance
+      Color: 255; 25; 0
+      Covariance:
+        Orientation:
+          Alpha: 0.5
+          Color: 255; 255; 127
+          Color Style: Unique
+          Frame: Local
+          Offset: 1
+          Scale: 1
+          Value: true
+        Position:
+          Alpha: 0.300000012
+          Color: 204; 51; 204
+          Scale: 1
+          Value: true
+        Value: true
+      Enabled: true
+      Head Length: 0.300000012
+      Head Radius: 0.100000001
+      Name: PoseWithCovariance
+      Shaft Length: 1
+      Shaft Radius: 0.0500000007
+      Shape: Arrow
+      Topic: /amcl_pose
+      Unreliable: false
+      Value: true
+    - Alpha: 0.699999988
+      Class: rviz/Map
+      Color Scheme: map
+      Draw Behind: false
+      Enabled: true
+      Name: Map
+      Topic: /moveBase/local_costmap/costmap
+      Unreliable: false
+      Use Timestamp: false
       Value: true
   Enabled: true
   Global Options:
@@ -449,10 +474,10 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.00999999978
-      Pitch: 1.43979621
+      Pitch: 1.56979632
       Target Frame: <Fixed Frame>
       Value: ThirdPersonFollower (rviz)
-      Yaw: 3.14819694
+      Yaw: 3.15319729
     Saved: ~
 Window Geometry:
   Displays:

@@ -6,7 +6,7 @@ global_costmap:
    publish_frequency: 0.5
    static_map: true
    rolling_window: false
-   resolution: 0.01
+   resolution: 0.1
    inflation_radius: 0.05
    plugins:
    - {name: static_layer,  type: "costmap_2d::StaticLayer"}

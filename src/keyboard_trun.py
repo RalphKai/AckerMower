@@ -59,6 +59,10 @@ while(keyPress != USER_QUIT):
 		forward = forward_init
 
 	elif ((keyPress == KEY_DOWN) and (forward == forward_init)):
+		forward = 100
+		twist.linear.x = forward
+		twist.angular.z = left
+		pub.publish(twist)
 		forward = 130.5
 		twist.linear.x = forward
 		twist.angular.z = left
