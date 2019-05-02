@@ -57,7 +57,7 @@ class Converter():
 			self.last_time = rospy.Time.now()
 
 		elif self.rpm >= 1 and self.pwm_x == 100:	# backward continue
-			pass
+			self.pub_new_cmd()
 
 		elif self.pwm_x != 100:		# other situations need reverse motion
 			self.pwm_x = 130
@@ -69,7 +69,7 @@ class Converter():
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
 			self.last_time = rospy.Time.now()
 		else:		# in case 
-			pass
+			self.pub_new_cmd()
 		
 	def callback_backward(self, event):
 		self.pwm_x = 100
@@ -89,7 +89,7 @@ class Converter():
 			if self.cmd_x > 0:
 				self.pwm_th = (self.conv_th + 16.4882) / 0.71   # 27 + (self.cmd_th/0.25) * 25
 			elif self.cmd_x < 0:
-				self.pwm_th = (-self.conv_th + 16.4882) / 0.71
+				self.pwm_th = (-self.conv_th + 21.2323) / (0.82)
 
 			if self.pwm_th > 54:
 				self.pwm_th = 54
@@ -100,7 +100,7 @@ class Converter():
 			if self.cmd_x > 0:
 				self.pwm_th = (self.conv_th + 21.2323) / (0.82)   # 27 - (self.cmd_th/0.39) * 25
 			elif self.cmd_x < 0:
-				self.pwm_th = (-self.conv_th + 21.2323) / (0.82)
+				self.pwm_th = (-self.conv_th + 16.4882) / 0.71
 
 			if self.pwm_th < 0:
 				self.pwm_th = 0
@@ -134,7 +134,9 @@ class Converter():
 		#global th
 		self.cmd_x = cmd.linear.x
 		self.cmd_vth = cmd.angular.z
+		
 		self.conv_th = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.cmd_vth, 0.285)
+		self.processing()
 		#rospy.loginfo("callback_converter:"+str(self.cmd_x)+", " +str(self.cmd_vth)+", " + str(self.conv_th)+ "----------------")
 
 	def pub_new_cmd(self):
@@ -156,11 +158,11 @@ if __name__ == '__main__':
     converter = Converter()
     last_time = rospy.Time.now()
     current_time = rospy.Time.now()
-    while not rospy.is_shutdown():
+    '''while not rospy.is_shutdown():
     	converter.processing()
     	# rospy.loginfo("I'm in converter!!")
-	rospy.sleep(0.05)
-    # rospy.spin()
+	rospy.sleep(0.05)'''
+    rospy.spin()
     
   except rospy.ROSInterruptException:
     pass

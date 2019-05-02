@@ -40,11 +40,11 @@ while(keyPress != USER_QUIT):
 	elif(keyPress == KEY_DOWN) and (twist.linear.x == 0):
 		twist.linear.x = -0.1
 		
-	if((keyPress == KEY_LEFT)):
+	if((keyPress == KEY_LEFT) and (twist.linear.x != 0)):
 		twist.angular.z = twist.angular.z + 0.1
 		if twist.angular.z >= 0.2:
 			twist.angular.z = 0.2
-	elif((keyPress == KEY_RIGHT)):
+	elif((keyPress == KEY_RIGHT) and (twist.linear.x != 0)):
 		twist.angular.z = twist.angular.z - 0.1
 		if twist.angular.z <= -0.2:
 			twist.angular.z = -0.2

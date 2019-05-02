@@ -24,14 +24,13 @@ class Self_odom():
 		self.yaw = 0
 		self.rpm = 0
 		self.tf_broadcaster = tf.TransformBroadcaster()
-		self.odom_pub = rospy.Publisher("/odom", Odometry, queue_size=10)
+		self.odom_pub = rospy.Publisher("/odom_fake", Odometry, queue_size=10)
 		self.cmd_subscriber = rospy.Subscriber("/cmd_vel", Twist, self.call_back_cmd)
 		rospy.Rate(10)
 		self.sensor_subscriber = rospy.Subscriber("/sensing", Float32, self.call_back)
 		rospy.Rate(10)
 		self.current_time = rospy.Time.now()
-		self.last_time = rospy.Time.now()
-		
+		self.last_time = rospy.Time.now()	
 		rospy.on_shutdown(self.shutdownhook)
 		
 		
@@ -63,16 +62,16 @@ class Self_odom():
 			self.vx = 0
 
 		if self.z>0:
-			#steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = self.z
-			#self.vth = ( self.vx * tan(steering) / 0.285)
+			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
+			# self.vth = self.z
+			self.vth = ( self.vx * tan(steering) / 0.285)
 			# angular = 28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular*(pi/180)) )/ 0.284
 			# rospy.loginfo(rospy.get_caller_id() +" turn_angle: "+ str(steering)+", vz: "+ str(self.vth))
 		elif self.z<0:
-			#steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = self.z
-			#self.vth = ( self.vx * tan(steering)/ 0.285)
+			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
+			#self.vth = self.z
+			self.vth = ( self.vx * tan(steering)/ 0.285)
 			# angular = -28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular)*(pi/180) )/ 0.284
 			
@@ -99,8 +98,9 @@ class Self_odom():
 
 		delta_x = (self.vx * cos(self.th)) * dt   #  - self.vy * sin(self.th)
 		delta_y = (self.vx * sin(self.th)) * dt   #  + self.vy * cos(self.th)
-
+		
 		delta_th = self.vth * dt
+
 		self.th = self.th + delta_th
 		yaw = self.th * (180/pi)
 

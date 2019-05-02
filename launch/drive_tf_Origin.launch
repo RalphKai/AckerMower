@@ -37,7 +37,7 @@
 
 	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
 		<rosparam file="$(find mower)/param/ekf.yaml" command="load" />
-		<!--remap from="/odometry/filtered" to="/odom"/-->
+		<remap from="/odometry/filtered" to="/odom"/>
 	</node>
 
 	<node name="cmd_converter" pkg="mower" type="cmd_converter.py" required="true" output="screen"/>
