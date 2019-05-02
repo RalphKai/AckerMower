@@ -63,14 +63,16 @@ class Self_odom():
 			self.vx = 0
 
 		if self.z>0:
-			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = ( self.vx * tan(steering) / 0.285)
+			#steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
+			self.vth = self.z
+			#self.vth = ( self.vx * tan(steering) / 0.285)
 			# angular = 28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular*(pi/180)) )/ 0.284
 			# rospy.loginfo(rospy.get_caller_id() +" turn_angle: "+ str(steering)+", vz: "+ str(self.vth))
 		elif self.z<0:
-			steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
-			self.vth = ( self.vx * tan(steering)/ 0.285)
+			#steering = self.convert_trans_rot_vel_to_steering_angle(self.cmd_x, self.z, 0.285)
+			self.vth = self.z
+			#self.vth = ( self.vx * tan(steering)/ 0.285)
 			# angular = -28 * (self.z/0.54)
 			# self.vth = ( self.vx * tan(angular)*(pi/180) )/ 0.284
 			
@@ -104,7 +106,25 @@ class Self_odom():
 
 		self.x = self.x + delta_x
 		self.y = self.y + delta_y
+
+		self.last_time = self.current_time
+
+
 		odom_quat = tf.transformations.quaternion_from_euler(0, 0, self.th)
+		# publish odom
+		odom = Odometry()
+		odom.header.stamp = self.current_time
+		odom.header.frame_id = "odom"
+
+		odom.pose.pose = Pose(Point(self.x, self.y,0), Quaternion(*odom_quat))
+		odom.child_frame_id = "base_link"
+		
+		
+		odom.twist.twist = Twist(Vector3(self.vx, 0, 0), Vector3(0,0, self.vth))
+		self.odom_pub.publish(odom)
+
+		# publish tf
+		
 		rospy.loginfo("pub_tf: " + str(self.x) + ", "+ str(self.y) +", " +str(yaw))
 
 		self.tf_broadcaster.sendTransform(
@@ -116,25 +136,9 @@ class Self_odom():
 
 		)
 		
-		'''self.laser_broadcaster.sendTransform(
-			(0, 0, 0),
-			(0, 0, 0, 1),
-			self.current_time,
-			"scan",
-			"base_link"
-		)'''
 
-		odom = Odometry()
-		odom.header.stamp = self.current_time
-		odom.header.frame_id = "odom"
-
-		odom.pose.pose = Pose(Point(self.x, self.y,0), Quaternion(*odom_quat))
-		odom.child_frame_id = "base_link"
 		
-		
-		odom.twist.twist = Twist(Vector3(self.vx, 0, 0), Vector3(0,0, self.vth))
-		self.odom_pub.publish(odom)
-		self.last_time = self.current_time
+		# self.last_time = self.current_time
 
 	def shutdownhook(self):
 		rospy.loginfo(rospy.get_caller_id() + " stop")

@@ -28,17 +28,17 @@
 	
     	<node pkg="tf" type="static_transform_publisher" name="base_link2laser_link" args="0.2 0 0.08 0 0 0 /base_link /scan 30"/>
 	<node pkg="tf" type="static_transform_publisher" name="base_link2laser_link2" args="0.2 0 0 0 0 0 /scan /camera_link 30"/>
-    	<node pkg="tf" type="static_transform_publisher" name="base_link2imu" args="0.1275 0.0 0.0 0 0 0 /base_link /imu 30"/>
+    	<node pkg="tf" type="static_transform_publisher" name="base_link2imu" args="0.1275 0.0 0.0 3.1416 0 3.1416 /base_link /imu 30"/>
 
 
     	<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
     	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
 	<include file="$(find moveit_cfg)/launch/planning_context.launch"/>
 
-	<!--node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true"-->
-		<!--rosparam file="$(find mower)/param/ekf.yaml" command="load" /-->
-		<!-- remap from="/odometry/filtered" to="/odom"/ -->
-	<!--/node-->
+	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
+		<rosparam file="$(find mower)/param/ekf.yaml" command="load" />
+		<!--remap from="/odometry/filtered" to="/odom"/-->
+	</node>
 
 	<node name="cmd_converter" pkg="mower" type="cmd_converter.py" required="true" output="screen"/>
 

@@ -85,14 +85,28 @@ class Converter():
 		#global th
 		#global vth
 
-		if self.cmd_vth > 0:
-			self.pwm_th = (self.conv_th + 16.4882) / 0.71   # 27 + (self.cmd_th/0.25) * 25
-	  		if self.pwm_th > 54:
+		if self.cmd_vth > 0:   # front tires turn left 
+			if self.cmd_x > 0:
+				self.pwm_th = (self.conv_th + 16.4882) / 0.71   # 27 + (self.cmd_th/0.25) * 25
+			elif self.cmd_x < 0:
+				self.pwm_th = (-self.conv_th + 16.4882) / 0.71
+
+			if self.pwm_th > 54:
 				self.pwm_th = 54
+			if self.pwm_th < 27:
+				self.pwm_th = 27
+		
 		elif self.cmd_vth < 0:
-			self.pwm_th = (self.conv_th + 21.2323) / (0.82)   # 27 - (self.cmd_th/0.39) * 25
+			if self.cmd_x > 0:
+				self.pwm_th = (self.conv_th + 21.2323) / (0.82)   # 27 - (self.cmd_th/0.39) * 25
+			elif self.cmd_x < 0:
+				self.pwm_th = (-self.conv_th + 21.2323) / (0.82)
+
 			if self.pwm_th < 0:
 				self.pwm_th = 0
+			if self.pwm_th > 27:
+				self.pwm_th = 27
+
 		else:
 			self.pwm_th = 27
 		
