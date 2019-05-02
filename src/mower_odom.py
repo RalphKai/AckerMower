@@ -98,8 +98,10 @@ class Self_odom():
 
 		delta_x = (self.vx * cos(self.th)) * dt   #  - self.vy * sin(self.th)
 		delta_y = (self.vx * sin(self.th)) * dt   #  + self.vy * cos(self.th)
+
 		
 		delta_th = self.vth * dt
+		
 
 		self.th = self.th + delta_th
 		yaw = self.th * (180/pi)
