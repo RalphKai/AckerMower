@@ -13,6 +13,9 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   tf
 )
+#find_package(catkin REQUIRED genmsg actionlib_msgs actionlib)
+#add_action_files(DIRECTORY action FILES DoDishes.action)
+#generate_messages(DEPENDENCIES actionlib_msgs)
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -201,13 +204,16 @@ include_directories(
 
 add_executable(imu src/imu_odometry.cpp)
 target_link_libraries(imu ${catkin_LIBRARIES})
-add_dependencies(imu imu_odometry_cpp)
+
 
 add_executable(testRviz src/testRviz.cpp)
 target_link_libraries(testRviz ${catkin_LIBRARIES})
 
 add_executable(tf_broadcaster src/tf_broadcaster.cpp)
 target_link_libraries(tf_broadcaster ${catkin_LIBRARIES})
+
+add_executable(move_square src/move_base_square.cpp)
+target_link_libraries(move_square ${catkin_LIBRARIES})
 
 #add_executable(move_square src/move_base_square.cpp)
 #target_link_libraries(move_square ${catkin_LIBRARIES})

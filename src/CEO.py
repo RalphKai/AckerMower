@@ -15,7 +15,7 @@ def movebase_client():
 	goal.target_pose.header.frame_id = "base_link"
 	goal.target_pose.header.stamp = rospy.Time.now()
 	
-	goal.target_pose.pose.position.x = 3.0
+	goal.target_pose.pose.position.x = 2.5
 
 	goal.target_pose.pose.orientation.w = 1.0		# no rotation
 
