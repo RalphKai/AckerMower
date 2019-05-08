@@ -46,7 +46,7 @@ def callback3(event):
 	twist.linear.x = 0.25
 	twist.angular.z = 0
 	pub.publish(twist)
-	rospy.Timer(rospy.Duration(2.5), callback4, oneshot=True)
+	rospy.Timer(rospy.Duration(2), callback4, oneshot=True)
 
 def callback4(event):
 	global twist

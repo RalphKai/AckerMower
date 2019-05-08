@@ -129,7 +129,7 @@ class Self_odom():
 		
 		rospy.loginfo("pub_tf: " + str(self.x) + ", "+ str(self.y) +", " +str(yaw))
 
-		self.tf_broadcaster.sendTransform(
+		'''self.tf_broadcaster.sendTransform(
 			(self.x, self.y, 0.0),
 			odom_quat,
 			self.current_time,
@@ -137,7 +137,7 @@ class Self_odom():
 			"odom"
 
 		)
-		
+		'''
 
 		
 		# self.last_time = self.current_time

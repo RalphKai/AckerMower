@@ -45,7 +45,7 @@ class Converter():
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)'''
 		self.current = rospy.Time.now()
-		if self.rpm < 1 and self.pwm_x == 103 and (self.current - self.last_time) >= 1:	# backward failed at last time
+		if self.rpm < 1 and self.pwm_x == 103 and (self.current - self.last_time) >= rospy.Duration(secs=1):	# backward failed at last time
 			
 			self.pwm_x = 130
 			self.pub_new_cmd()

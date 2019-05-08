@@ -21,5 +21,12 @@ rospy.init_node('path_node')
 odom_sub = rospy.Subscriber('/odom', Odometry, odom_cb)
 path_pub = rospy.Publisher('/path', Path, queue_size=10)
 
+def stophook():
+	global path
+	with open('record_path.txt', 'w') as f:
+		for item in path.poses:
+			f.write(str(item) + "\n")
 if __name__ == '__main__':
-	rospy.spin()
+	while not rospy.is_shutdown():
+		rospy.spin()
+	rospy.on_shutdown(stophook)
