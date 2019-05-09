@@ -1,0 +1,10576 @@
+header: 
+  seq: 3052
+  stamp: 
+    secs: 1557371290
+    nsecs: 665219069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3053
+  stamp: 
+    secs: 1557371290
+    nsecs: 704919100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3054
+  stamp: 
+    secs: 1557371290
+    nsecs: 725302935
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3055
+  stamp: 
+    secs: 1557371290
+    nsecs: 784758091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3056
+  stamp: 
+    secs: 1557371290
+    nsecs: 804817915
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3057
+  stamp: 
+    secs: 1557371290
+    nsecs: 849425077
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3058
+  stamp: 
+    secs: 1557371290
+    nsecs: 884520054
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3059
+  stamp: 
+    secs: 1557371290
+    nsecs: 924408913
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3060
+  stamp: 
+    secs: 1557371290
+    nsecs: 945045948
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3061
+  stamp: 
+    secs: 1557371290
+    nsecs: 984308004
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3062
+  stamp: 
+    secs: 1557371291
+    nsecs:  24267912
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3063
+  stamp: 
+    secs: 1557371291
+    nsecs:  57310104
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3064
+  stamp: 
+    secs: 1557371291
+    nsecs:  84053993
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3065
+  stamp: 
+    secs: 1557371291
+    nsecs: 124193907
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3066
+  stamp: 
+    secs: 1557371291
+    nsecs: 159415007
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3067
+  stamp: 
+    secs: 1557371291
+    nsecs: 184657097
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3068
+  stamp: 
+    secs: 1557371291
+    nsecs: 225404024
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3069
+  stamp: 
+    secs: 1557371291
+    nsecs: 247092962
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3070
+  stamp: 
+    secs: 1557371291
+    nsecs: 284742117
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3071
+  stamp: 
+    secs: 1557371291
+    nsecs: 323559999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3072
+  stamp: 
+    secs: 1557371291
+    nsecs: 360246897
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3073
+  stamp: 
+    secs: 1557371291
+    nsecs: 386554003
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3074
+  stamp: 
+    secs: 1557371291
+    nsecs: 423593044
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3075
+  stamp: 
+    secs: 1557371291
+    nsecs: 444768906
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3076
+  stamp: 
+    secs: 1557371291
+    nsecs: 491820097
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3077
+  stamp: 
+    secs: 1557371291
+    nsecs: 523251057
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3078
+  stamp: 
+    secs: 1557371291
+    nsecs: 563044071
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3079
+  stamp: 
+    secs: 1557371291
+    nsecs: 583246946
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3080
+  stamp: 
+    secs: 1557371291
+    nsecs: 623445034
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3081
+  stamp: 
+    secs: 1557371291
+    nsecs: 663372040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3082
+  stamp: 
+    secs: 1557371291
+    nsecs: 689074993
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3083
+  stamp: 
+    secs: 1557371291
+    nsecs: 727596045
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3084
+  stamp: 
+    secs: 1557371291
+    nsecs: 763263941
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3085
+  stamp: 
+    secs: 1557371291
+    nsecs: 782887936
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3086
+  stamp: 
+    secs: 1557371291
+    nsecs: 823446035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3087
+  stamp: 
+    secs: 1557371291
+    nsecs: 862479925
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3088
+  stamp: 
+    secs: 1557371291
+    nsecs: 882534027
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3089
+  stamp: 
+    secs: 1557371291
+    nsecs: 927766085
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3090
+  stamp: 
+    secs: 1557371291
+    nsecs: 962620020
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3091
+  stamp: 
+    secs: 1557371291
+    nsecs: 982321978
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3092
+  stamp: 
+    secs: 1557371292
+    nsecs:  23607969
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3093
+  stamp: 
+    secs: 1557371292
+    nsecs:  57748079
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3094
+  stamp: 
+    secs: 1557371292
+    nsecs:  89221954
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3095
+  stamp: 
+    secs: 1557371292
+    nsecs: 122004032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3096
+  stamp: 
+    secs: 1557371292
+    nsecs: 142151117
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3097
+  stamp: 
+    secs: 1557371292
+    nsecs: 181957960
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3098
+  stamp: 
+    secs: 1557371292
+    nsecs: 224353075
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3099
+  stamp: 
+    secs: 1557371292
+    nsecs: 261640072
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3100
+  stamp: 
+    secs: 1557371292
+    nsecs: 281599998
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3101
+  stamp: 
+    secs: 1557371292
+    nsecs: 322277069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3102
+  stamp: 
+    secs: 1557371292
+    nsecs: 361412048
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3103
+  stamp: 
+    secs: 1557371292
+    nsecs: 381830931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3104
+  stamp: 
+    secs: 1557371292
+    nsecs: 427382946
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3105
+  stamp: 
+    secs: 1557371292
+    nsecs: 461559057
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3106
+  stamp: 
+    secs: 1557371292
+    nsecs: 481251955
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3107
+  stamp: 
+    secs: 1557371292
+    nsecs: 521110058
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3108
+  stamp: 
+    secs: 1557371292
+    nsecs: 541460037
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3109
+  stamp: 
+    secs: 1557371292
+    nsecs: 581036091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3110
+  stamp: 
+    secs: 1557371292
+    nsecs: 620929956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3111
+  stamp: 
+    secs: 1557371292
+    nsecs: 662477016
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3112
+  stamp: 
+    secs: 1557371292
+    nsecs: 681221008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3113
+  stamp: 
+    secs: 1557371292
+    nsecs: 720787048
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3114
+  stamp: 
+    secs: 1557371292
+    nsecs: 761559963
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3115
+  stamp: 
+    secs: 1557371292
+    nsecs: 781229973
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3116
+  stamp: 
+    secs: 1557371292
+    nsecs: 821355104
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3117
+  stamp: 
+    secs: 1557371292
+    nsecs: 843830109
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3118
+  stamp: 
+    secs: 1557371292
+    nsecs: 887062073
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3119
+  stamp: 
+    secs: 1557371292
+    nsecs: 928886890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3120
+  stamp: 
+    secs: 1557371292
+    nsecs: 967756987
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3121
+  stamp: 
+    secs: 1557371292
+    nsecs: 989387035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3122
+  stamp: 
+    secs: 1557371293
+    nsecs:  33282995
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3123
+  stamp: 
+    secs: 1557371293
+    nsecs:  61511040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3124
+  stamp: 
+    secs: 1557371293
+    nsecs: 101159096
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3125
+  stamp: 
+    secs: 1557371293
+    nsecs: 123542070
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3126
+  stamp: 
+    secs: 1557371293
+    nsecs: 160620928
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3127
+  stamp: 
+    secs: 1557371293
+    nsecs: 181338072
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3128
+  stamp: 
+    secs: 1557371293
+    nsecs: 221724033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3129
+  stamp: 
+    secs: 1557371293
+    nsecs: 259963036
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3130
+  stamp: 
+    secs: 1557371293
+    nsecs: 300585032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3131
+  stamp: 
+    secs: 1557371293
+    nsecs: 332222939
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3132
+  stamp: 
+    secs: 1557371293
+    nsecs: 359954119
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3133
+  stamp: 
+    secs: 1557371293
+    nsecs: 379463911
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3134
+  stamp: 
+    secs: 1557371293
+    nsecs: 422363043
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3135
+  stamp: 
+    secs: 1557371293
+    nsecs: 459587097
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3136
+  stamp: 
+    secs: 1557371293
+    nsecs: 499094009
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3137
+  stamp: 
+    secs: 1557371293
+    nsecs: 519342899
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3138
+  stamp: 
+    secs: 1557371293
+    nsecs: 562480927
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3139
+  stamp: 
+    secs: 1557371293
+    nsecs: 599024057
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3140
+  stamp: 
+    secs: 1557371293
+    nsecs: 632359982
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3141
+  stamp: 
+    secs: 1557371293
+    nsecs: 658744097
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3142
+  stamp: 
+    secs: 1557371293
+    nsecs: 678752899
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3143
+  stamp: 
+    secs: 1557371293
+    nsecs: 718715906
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3144
+  stamp: 
+    secs: 1557371293
+    nsecs: 760258913
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3145
+  stamp: 
+    secs: 1557371293
+    nsecs: 799216986
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3146
+  stamp: 
+    secs: 1557371293
+    nsecs: 818460941
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3147
+  stamp: 
+    secs: 1557371293
+    nsecs: 865010977
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3148
+  stamp: 
+    secs: 1557371293
+    nsecs: 898402929
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3149
+  stamp: 
+    secs: 1557371293
+    nsecs: 918848991
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3150
+  stamp: 
+    secs: 1557371293
+    nsecs: 966584921
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3151
+  stamp: 
+    secs: 1557371293
+    nsecs: 999659061
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3152
+  stamp: 
+    secs: 1557371294
+    nsecs:  19418001
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3153
+  stamp: 
+    secs: 1557371294
+    nsecs:  62732935
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3154
+  stamp: 
+    secs: 1557371294
+    nsecs:  98294973
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3155
+  stamp: 
+    secs: 1557371294
+    nsecs: 137917042
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3156
+  stamp: 
+    secs: 1557371294
+    nsecs: 157741070
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3157
+  stamp: 
+    secs: 1557371294
+    nsecs: 200887918
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3158
+  stamp: 
+    secs: 1557371294
+    nsecs: 218631983
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3159
+  stamp: 
+    secs: 1557371294
+    nsecs: 258008003
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3160
+  stamp: 
+    secs: 1557371294
+    nsecs: 300084114
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3161
+  stamp: 
+    secs: 1557371294
+    nsecs: 319334984
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3162
+  stamp: 
+    secs: 1557371294
+    nsecs: 362934113
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3163
+  stamp: 
+    secs: 1557371294
+    nsecs: 397474051
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3164
+  stamp: 
+    secs: 1557371294
+    nsecs: 437269926
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3165
+  stamp: 
+    secs: 1557371294
+    nsecs: 472168922
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3166
+  stamp: 
+    secs: 1557371294
+    nsecs: 497879028
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3167
+  stamp: 
+    secs: 1557371294
+    nsecs: 516993999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3168
+  stamp: 
+    secs: 1557371294
+    nsecs: 557459116
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3169
+  stamp: 
+    secs: 1557371294
+    nsecs: 596761942
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0230143378074
+    w: 0.999735135051
+header: 
+  seq: 3170
+  stamp: 
+    secs: 1557371294
+    nsecs: 636724949
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0231928464132
+    w: 0.99973100976
+header: 
+  seq: 3171
+  stamp: 
+    secs: 1557371294
+    nsecs: 656598091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0231954364518
+    w: 0.99973094967
+header: 
+  seq: 3172
+  stamp: 
+    secs: 1557371294
+    nsecs: 703335047
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0232057625142
+    w: 0.999730710035
+header: 
+  seq: 3173
+  stamp: 
+    secs: 1557371294
+    nsecs: 736411095
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0232935344648
+    w: 0.999728668816
+header: 
+  seq: 3174
+  stamp: 
+    secs: 1557371294
+    nsecs: 756707907
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.023384847218
+    w: 0.999726537069
+header: 
+  seq: 3175
+  stamp: 
+    secs: 1557371294
+    nsecs: 797565937
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0233930891899
+    w: 0.999726344245
+header: 
+  seq: 3176
+  stamp: 
+    secs: 1557371294
+    nsecs: 836800098
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0234878083498
+    w: 0.999724123376
+header: 
+  seq: 3177
+  stamp: 
+    secs: 1557371294
+    nsecs: 856249094
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.023490490942
+    w: 0.999724060346
+header: 
+  seq: 3178
+  stamp: 
+    secs: 1557371294
+    nsecs: 896142960
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0235845083219
+    w: 0.999721846799
+header: 
+  seq: 3179
+  stamp: 
+    secs: 1557371294
+    nsecs: 936163902
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0235028275824
+    w: 0.999723770396
+header: 
+  seq: 3180
+  stamp: 
+    secs: 1557371294
+    nsecs: 965008974
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0234142943407
+    w: 0.999725847831
+header: 
+  seq: 3181
+  stamp: 
+    secs: 1557371295
+    nsecs:   9696007
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0233159428669
+    w: 0.999728146452
+header: 
+  seq: 3182
+  stamp: 
+    secs: 1557371295
+    nsecs:  42203903
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0235993621967
+    w: 0.99972149627
+header: 
+  seq: 3183
+  stamp: 
+    secs: 1557371295
+    nsecs:  75723886
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0235062362103
+    w: 0.999723690256
+header: 
+  seq: 3184
+  stamp: 
+    secs: 1557371295
+    nsecs:  95695972
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0234189715132
+    w: 0.999725738277
+header: 
+  seq: 3185
+  stamp: 
+    secs: 1557371295
+    nsecs: 135663033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0234176768684
+    w: 0.999725768604
+header: 
+  seq: 3186
+  stamp: 
+    secs: 1557371295
+    nsecs: 175523043
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0232386375137
+    w: 0.999729946399
+header: 
+  seq: 3187
+  stamp: 
+    secs: 1557371295
+    nsecs: 217093945
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0231403227069
+    w: 0.999732226881
+header: 
+  seq: 3188
+  stamp: 
+    secs: 1557371295
+    nsecs: 248218060
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0231212960878
+    w: 0.9997326671
+header: 
+  seq: 3189
+  stamp: 
+    secs: 1557371295
+    nsecs: 276019096
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0229534636654
+    w: 0.999736534546
+header: 
+  seq: 3190
+  stamp: 
+    secs: 1557371295
+    nsecs: 316215992
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0227664621719
+    w: 0.99974081051
+header: 
+  seq: 3191
+  stamp: 
+    secs: 1557371295
+    nsecs: 335206032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0227624470798
+    w: 0.999740901936
+header: 
+  seq: 3192
+  stamp: 
+    secs: 1557371295
+    nsecs: 376679897
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0226585385412
+    w: 0.999743262358
+header: 
+  seq: 3193
+  stamp: 
+    secs: 1557371295
+    nsecs: 417659998
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0224649071633
+    w: 0.999747632128
+header: 
+  seq: 3194
+  stamp: 
+    secs: 1557371295
+    nsecs: 449279070
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0223283139793
+    w: 0.99975069212
+header: 
+  seq: 3195
+  stamp: 
+    secs: 1557371295
+    nsecs: 474884987
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0223615078031
+    w: 0.999749950222
+header: 
+  seq: 3196
+  stamp: 
+    secs: 1557371295
+    nsecs: 515183926
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0222625114827
+    w: 0.999752159579
+header: 
+  seq: 3197
+  stamp: 
+    secs: 1557371295
+    nsecs: 554701090
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0220735658698
+    w: 0.999756349162
+header: 
+  seq: 3198
+  stamp: 
+    secs: 1557371295
+    nsecs: 580904961
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0220490845844
+    w: 0.999756889383
+header: 
+  seq: 3199
+  stamp: 
+    secs: 1557371295
+    nsecs: 617036104
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0218662599893
+    w: 0.999760904754
+header: 
+  seq: 3200
+  stamp: 
+    secs: 1557371295
+    nsecs: 655251980
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0215837787075
+    w: 0.999767043114
+header: 
+  seq: 3201
+  stamp: 
+    secs: 1557371295
+    nsecs: 674675941
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0215773890065
+    w: 0.999767181039
+header: 
+  seq: 3202
+  stamp: 
+    secs: 1557371295
+    nsecs: 714864969
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0217436938752
+    w: 0.999763577941
+header: 
+  seq: 3203
+  stamp: 
+    secs: 1557371295
+    nsecs: 744334936
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0217289203688
+    w: 0.999763899138
+header: 
+  seq: 3204
+  stamp: 
+    secs: 1557371295
+    nsecs: 774226904
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0214676060807
+    w: 0.99976954439
+header: 
+  seq: 3205
+  stamp: 
+    secs: 1557371295
+    nsecs: 814400911
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0212743942314
+    w: 0.999773674463
+header: 
+  seq: 3206
+  stamp: 
+    secs: 1557371295
+    nsecs: 855568886
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0207135786575
+    w: 0.999785450814
+header: 
+  seq: 3207
+  stamp: 
+    secs: 1557371295
+    nsecs: 874033928
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0207981422108
+    w: 0.999783695246
+header: 
+  seq: 3208
+  stamp: 
+    secs: 1557371295
+    nsecs: 913921118
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0205991328994
+    w: 0.999787815351
+header: 
+  seq: 3209
+  stamp: 
+    secs: 1557371295
+    nsecs: 952941895
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0204108659615
+    w: 0.999791676576
+header: 
+  seq: 3210
+  stamp: 
+    secs: 1557371295
+    nsecs: 987728119
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0204314914909
+    w: 0.999791255291
+header: 
+  seq: 3211
+  stamp: 
+    secs: 1557371296
+    nsecs:  14895916
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0201026287049
+    w: 0.999797921742
+header: 
+  seq: 3212
+  stamp: 
+    secs: 1557371296
+    nsecs:  53932905
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0196390946073
+    w: 0.999807134383
+header: 
+  seq: 3213
+  stamp: 
+    secs: 1557371296
+    nsecs:  74961901
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0195279006298
+    w: 0.999809312368
+header: 
+  seq: 3214
+  stamp: 
+    secs: 1557371296
+    nsecs: 108475924
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0190424474994
+    w: 0.999818676157
+header: 
+  seq: 3215
+  stamp: 
+    secs: 1557371296
+    nsecs: 155328989
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187441058231
+    w: 0.999824313816
+header: 
+  seq: 3216
+  stamp: 
+    secs: 1557371296
+    nsecs: 176918030
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0188992653224
+    w: 0.999821392935
+header: 
+  seq: 3217
+  stamp: 
+    secs: 1557371296
+    nsecs: 217075109
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0185152025322
+    w: 0.999828578945
+header: 
+  seq: 3218
+  stamp: 
+    secs: 1557371296
+    nsecs: 253201008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.018513549589
+    w: 0.999828609553
+header: 
+  seq: 3219
+  stamp: 
+    secs: 1557371296
+    nsecs: 288928986
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0182342815865
+    w: 0.999833741667
+header: 
+  seq: 3220
+  stamp: 
+    secs: 1557371296
+    nsecs: 315321922
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0185681740145
+    w: 0.999827596595
+header: 
+  seq: 3221
+  stamp: 
+    secs: 1557371296
+    nsecs: 353193998
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0190966696006
+    w: 0.999817641978
+header: 
+  seq: 3222
+  stamp: 
+    secs: 1557371296
+    nsecs: 393484116
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187441055991
+    w: 0.99982431382
+header: 
+  seq: 3223
+  stamp: 
+    secs: 1557371296
+    nsecs: 420670033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.019111495971
+    w: 0.999817358682
+header: 
+  seq: 3224
+  stamp: 
+    secs: 1557371296
+    nsecs: 452825069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187445237988
+    w: 0.99982430598
+header: 
+  seq: 3225
+  stamp: 
+    secs: 1557371296
+    nsecs: 493038893
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0188329254541
+    w: 0.999822644732
+header: 
+  seq: 3226
+  stamp: 
+    secs: 1557371296
+    nsecs: 512586117
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187436194741
+    w: 0.999824322933
+header: 
+  seq: 3227
+  stamp: 
+    secs: 1557371296
+    nsecs: 553101063
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187383289635
+    w: 0.9998244221
+header: 
+  seq: 3228
+  stamp: 
+    secs: 1557371296
+    nsecs: 593750000
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187355199031
+    w: 0.999824474742
+header: 
+  seq: 3229
+  stamp: 
+    secs: 1557371296
+    nsecs: 632397890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0187354902465
+    w: 0.999824475298
+header: 
+  seq: 3230
+  stamp: 
+    secs: 1557371296
+    nsecs: 652460098
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0186452405453
+    w: 0.999826162393
+header: 
+  seq: 3231
+  stamp: 
+    secs: 1557371296
+    nsecs: 695897102
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0186383016241
+    w: 0.999826291769
+header: 
+  seq: 3232
+  stamp: 
+    secs: 1557371296
+    nsecs: 732142925
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0186379251446
+    w: 0.999826298787
+header: 
+  seq: 3233
+  stamp: 
+    secs: 1557371296
+    nsecs: 752757072
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0186362460867
+    w: 0.999826330085
+header: 
+  seq: 3234
+  stamp: 
+    secs: 1557371296
+    nsecs: 793133974
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0184528016905
+    w: 0.999829732559
+header: 
+  seq: 3235
+  stamp: 
+    secs: 1557371296
+    nsecs: 833374977
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0185357771377
+    w: 0.999828197725
+header: 
+  seq: 3236
+  stamp: 
+    secs: 1557371296
+    nsecs: 868352890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0184288089999
+    w: 0.999830175079
+header: 
+  seq: 3237
+  stamp: 
+    secs: 1557371296
+    nsecs: 891781092
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0181752922158
+    w: 0.999834815734
+header: 
+  seq: 3238
+  stamp: 
+    secs: 1557371296
+    nsecs: 931732893
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0180736692994
+    w: 0.999836657899
+header: 
+  seq: 3239
+  stamp: 
+    secs: 1557371296
+    nsecs: 971645117
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0179725482905
+    w: 0.99983848071
+header: 
+  seq: 3240
+  stamp: 
+    secs: 1557371296
+    nsecs: 991600037
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0180551223282
+    w: 0.999836992993
+header: 
+  seq: 3241
+  stamp: 
+    secs: 1557371297
+    nsecs:  32516956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0182271048744
+    w: 0.999833872525
+header: 
+  seq: 3242
+  stamp: 
+    secs: 1557371297
+    nsecs:  51974058
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0180493598208
+    w: 0.999837097036
+header: 
+  seq: 3243
+  stamp: 
+    secs: 1557371297
+    nsecs: 102869034
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0179373540869
+    w: 0.999839112722
+header: 
+  seq: 3244
+  stamp: 
+    secs: 1557371297
+    nsecs: 132863045
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0178570729214
+    w: 0.999840549761
+header: 
+  seq: 3245
+  stamp: 
+    secs: 1557371297
+    nsecs: 171602964
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.01794000659
+    w: 0.999839065132
+header: 
+  seq: 3246
+  stamp: 
+    secs: 1557371297
+    nsecs: 191261053
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0175847986164
+    w: 0.999845375474
+header: 
+  seq: 3247
+  stamp: 
+    secs: 1557371297
+    nsecs: 233154058
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0175680710438
+    w: 0.999845669531
+header: 
+  seq: 3248
+  stamp: 
+    secs: 1557371297
+    nsecs: 271610022
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0174691678445
+    w: 0.999847402444
+header: 
+  seq: 3249
+  stamp: 
+    secs: 1557371297
+    nsecs: 294014931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0172780682282
+    w: 0.999850723037
+header: 
+  seq: 3250
+  stamp: 
+    secs: 1557371297
+    nsecs: 330862999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0170040515127
+    w: 0.999855420664
+header: 
+  seq: 3251
+  stamp: 
+    secs: 1557371297
+    nsecs: 370902061
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.016631165682
+    w: 0.9998616926
+header: 
+  seq: 3252
+  stamp: 
+    secs: 1557371297
+    nsecs: 392854929
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164291660886
+    w: 0.999865032143
+header: 
+  seq: 3253
+  stamp: 
+    secs: 1557371297
+    nsecs: 430605888
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.6
+    y: 0.6
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0162389505654
+    w: 0.999868139549
+header: 
+  seq: 3254
+  stamp: 
+    secs: 1557371297
+    nsecs: 472026110
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.816393402576
+    y: 0.607823702102
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0160252171885
+    w: 0.999871587962
+header: 
+  seq: 3255
+  stamp: 
+    secs: 1557371297
+    nsecs: 492921114
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.821639279899
+    y: 0.60799654568
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0161876868685
+    w: 0.999868970813
+header: 
+  seq: 3256
+  stamp: 
+    secs: 1557371297
+    nsecs: 532876968
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.832054877936
+    y: 0.608336101352
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0160846140447
+    w: 0.999870634228
+header: 
+  seq: 3257
+  stamp: 
+    secs: 1557371297
+    nsecs: 571060896
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.842023162983
+    y: 0.608649072667
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0157186960946
+    w: 0.999876453665
+header: 
+  seq: 3258
+  stamp: 
+    secs: 1557371297
+    nsecs: 610477924
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.852229776219
+    y: 0.608974696995
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0156117405428
+    w: 0.999878129352
+header: 
+  seq: 3259
+  stamp: 
+    secs: 1557371297
+    nsecs: 645428896
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.861523903995
+    y: 0.609266832855
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0154456616172
+    w: 0.999880708653
+header: 
+  seq: 3260
+  stamp: 
+    secs: 1557371297
+    nsecs: 671920061
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.868173796306
+    y: 0.60946620551
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0152175569903
+    w: 0.999884206276
+header: 
+  seq: 3261
+  stamp: 
+    secs: 1557371297
+    nsecs: 711343050
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.878360281478
+    y: 0.609767476223
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0148436583909
+    w: 0.999889826834
+header: 
+  seq: 3262
+  stamp: 
+    secs: 1557371297
+    nsecs: 749979973
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.888337573192
+    y: 0.610056993489
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0144658702663
+    w: 0.999895363824
+header: 
+  seq: 3263
+  stamp: 
+    secs: 1557371297
+    nsecs: 771317959
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.893971331062
+    y: 0.610224527517
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0143512228025
+    w: 0.999897015899
+header: 
+  seq: 3264
+  stamp: 
+    secs: 1557371297
+    nsecs: 809894085
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.90392595865
+    y: 0.610526684937
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0143342419392
+    w: 0.999897259476
+header: 
+  seq: 3265
+  stamp: 
+    secs: 1557371297
+    nsecs: 849783897
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.914036955198
+    y: 0.610811589766
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0140459123179
+    w: 0.999901351308
+header: 
+  seq: 3266
+  stamp: 
+    secs: 1557371297
+    nsecs: 871427059
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.919692775604
+    y: 0.610967880465
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0138439060608
+    w: 0.999904168541
+header: 
+  seq: 3267
+  stamp: 
+    secs: 1557371297
+    nsecs: 912606001
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.93026343678
+    y: 0.61127723843
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0138148898117
+    w: 0.999904569856
+header: 
+  seq: 3268
+  stamp: 
+    secs: 1557371297
+    nsecs: 938508034
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.936963327333
+    y: 0.611489025277
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0140624945531
+    w: 0.999901118235
+header: 
+  seq: 3269
+  stamp: 
+    secs: 1557371297
+    nsecs: 973154068
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.945822427357
+    y: 0.611733311276
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0138832321969
+    w: 0.999903623288
+header: 
+  seq: 3270
+  stamp: 
+    secs: 1557371298
+    nsecs:  14651060
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.956336488965
+    y: 0.612039463686
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0139635232058
+    w: 0.999902505257
+header: 
+  seq: 3271
+  stamp: 
+    secs: 1557371298
+    nsecs:  51275015
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.96579872556
+    y: 0.612328566888
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0142294919796
+    w: 0.999898755654
+header: 
+  seq: 3272
+  stamp: 
+    secs: 1557371298
+    nsecs:  71106911
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.970767480162
+    y: 0.612475501485
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0143184533102
+    w: 0.999897485693
+header: 
+  seq: 3273
+  stamp: 
+    secs: 1557371298
+    nsecs: 110852003
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.980891580987
+    y: 0.612752793104
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0141448163151
+    w: 0.999899957081
+header: 
+  seq: 3274
+  stamp: 
+    secs: 1557371298
+    nsecs: 149106979
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.990671365117
+    y: 0.613020656016
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0139683990293
+    w: 0.999902437155
+header: 
+  seq: 3275
+  stamp: 
+    secs: 1557371298
+    nsecs: 169075966
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 0.995817920381
+    y: 0.613173732866
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0140525469565
+    w: 0.999901258087
+header: 
+  seq: 3276
+  stamp: 
+    secs: 1557371298
+    nsecs: 211877108
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.00657583926
+    y: 0.613477863795
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.014047261334
+    w: 0.999901332357
+header: 
+  seq: 3277
+  stamp: 
+    secs: 1557371298
+    nsecs: 252938032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.01700209038
+    y: 0.613753529458
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0137708688838
+    w: 0.999905177089
+header: 
+  seq: 3278
+  stamp: 
+    secs: 1557371298
+    nsecs: 269201040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.02115972098
+    y: 0.61387683702
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0138632573371
+    w: 0.99990390043
+header: 
+  seq: 3279
+  stamp: 
+    secs: 1557371298
+    nsecs: 311158895
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.031961524
+    y: 0.614173180216
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0137654351934
+    w: 0.999905251908
+header: 
+  seq: 3280
+  stamp: 
+    secs: 1557371298
+    nsecs: 349317074
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.04187838333
+    y: 0.614449894504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0137605036351
+    w: 0.999905319788
+header: 
+  seq: 3281
+  stamp: 
+    secs: 1557371298
+    nsecs: 388971090
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.052278286
+    y: 0.614738924477
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0137573161546
+    w: 0.999905363648
+header: 
+  seq: 3282
+  stamp: 
+    secs: 1557371298
+    nsecs: 410703897
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.05801917611
+    y: 0.614885603685
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0135737953305
+    w: 0.999907871796
+header: 
+  seq: 3283
+  stamp: 
+    secs: 1557371298
+    nsecs: 448462963
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.06806226299
+    y: 0.615138107369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0132117544338
+    w: 0.999912720964
+header: 
+  seq: 3284
+  stamp: 
+    secs: 1557371298
+    nsecs: 488369942
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.07877121851
+    y: 0.615411325216
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0129272426531
+    w: 0.999916439708
+header: 
+  seq: 3285
+  stamp: 
+    secs: 1557371298
+    nsecs: 510190964
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.08466812454
+    y: 0.61555684421
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0127280781712
+    w: 0.999918994732
+header: 
+  seq: 3286
+  stamp: 
+    secs: 1557371298
+    nsecs: 553518057
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.09646227889
+    y: 0.6158768847
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0127855452582
+    w: 0.999918261576
+header: 
+  seq: 3287
+  stamp: 
+    secs: 1557371298
+    nsecs: 588459969
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.10605812223
+    y: 0.616111396246
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.012520872361
+    w: 0.999921610805
+header: 
+  seq: 3288
+  stamp: 
+    secs: 1557371298
+    nsecs: 608556032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.11161066839
+    y: 0.616250072086
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0124210978868
+    w: 0.999922855188
+header: 
+  seq: 3289
+  stamp: 
+    secs: 1557371298
+    nsecs: 648184061
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.12263195506
+    y: 0.61653493575
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0124037476889
+    w: 0.999923070563
+header: 
+  seq: 3290
+  stamp: 
+    secs: 1557371298
+    nsecs: 687972069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.13379434772
+    y: 0.616820461283
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0123919396973
+    w: 0.999923216967
+header: 
+  seq: 3291
+  stamp: 
+    secs: 1557371298
+    nsecs: 713623047
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.14104233729
+    y: 0.616989690164
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0121862139081
+    w: 0.999925745338
+header: 
+  seq: 3292
+  stamp: 
+    secs: 1557371298
+    nsecs: 755831957
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.15305610757
+    y: 0.617284619591
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.012075160958
+    w: 0.999927092586
+header: 
+  seq: 3293
+  stamp: 
+    secs: 1557371298
+    nsecs: 787686110
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.16219542983
+    y: 0.617480381885
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0116439698392
+    w: 0.999932206685
+header: 
+  seq: 3294
+  stamp: 
+    secs: 1557371298
+    nsecs: 827629089
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.17374209575
+    y: 0.617769908553
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0117077034529
+    w: 0.999931462491
+header: 
+  seq: 3295
+  stamp: 
+    secs: 1557371298
+    nsecs: 852540970
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.18099347848
+    y: 0.617930133679
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0114995532452
+    w: 0.999933877952
+header: 
+  seq: 3296
+  stamp: 
+    secs: 1557371298
+    nsecs: 887526989
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.19124160718
+    y: 0.618142645435
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.01105557438
+    w: 0.99993888527
+header: 
+  seq: 3297
+  stamp: 
+    secs: 1557371298
+    nsecs: 927607059
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.203073199
+    y: 0.618413290186
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0109361447094
+    w: 0.999940198581
+header: 
+  seq: 3298
+  stamp: 
+    secs: 1557371298
+    nsecs: 947896004
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.19294406695
+    y: 0.618192550907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0110126779169
+    w: 0.999939358624
+header: 
+  seq: 3299
+  stamp: 
+    secs: 1557371298
+    nsecs: 987451077
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.20291377228
+    y: 0.618409470129
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0108196096315
+    w: 0.999941466311
+header: 
+  seq: 3300
+  stamp: 
+    secs: 1557371299
+    nsecs:  27514935
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.21301296433
+    y: 0.618625963033
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0106210781023
+    w: 0.999943594759
+header: 
+  seq: 3301
+  stamp: 
+    secs: 1557371299
+    nsecs:  48751116
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.21834024669
+    y: 0.618738387742
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.010516836305
+    w: 0.999944696548
+header: 
+  seq: 3302
+  stamp: 
+    secs: 1557371299
+    nsecs:  87132931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.22800038544
+    y: 0.618939966568
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0103261828924
+    w: 0.999946683552
+header: 
+  seq: 3303
+  stamp: 
+    secs: 1557371299
+    nsecs: 126952887
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.23802499233
+    y: 0.619126649665
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00985948499392
+    w: 0.999951394097
+header: 
+  seq: 3304
+  stamp: 
+    secs: 1557371299
+    nsecs: 153214931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.24465916707
+    y: 0.619253288493
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00962280084042
+    w: 0.99995369978
+header: 
+  seq: 3305
+  stamp: 
+    secs: 1557371299
+    nsecs: 189223051
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.25371619359
+    y: 0.619419207728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00926103928011
+    w: 0.999957115656
+header: 
+  seq: 3306
+  stamp: 
+    secs: 1557371299
+    nsecs: 206876040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.25813317192
+    y: 0.619523064547
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00944111413748
+    w: 0.999955431689
+header: 
+  seq: 3307
+  stamp: 
+    secs: 1557371299
+    nsecs: 246753931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.26816662724
+    y: 0.619687831724
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0088784893986
+    w: 0.999960585436
+header: 
+  seq: 3308
+  stamp: 
+    secs: 1557371299
+    nsecs: 286648035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.27819038095
+    y: 0.619846130493
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00830628473503
+    w: 0.999965502222
+header: 
+  seq: 3309
+  stamp: 
+    secs: 1557371299
+    nsecs: 313188076
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.28487890814
+    y: 0.619982057056
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00842092548266
+    w: 0.999964543378
+header: 
+  seq: 3310
+  stamp: 
+    secs: 1557371299
+    nsecs: 356508017
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.29576324207
+    y: 0.62018843044
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00848129673965
+    w: 0.999964033156
+header: 
+  seq: 3311
+  stamp: 
+    secs: 1557371299
+    nsecs: 393409967
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.30503032334
+    y: 0.620362759196
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00857780428357
+    w: 0.99996320996
+header: 
+  seq: 3312
+  stamp: 
+    secs: 1557371299
+    nsecs: 427146912
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.31350165429
+    y: 0.620514280608
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0085831518943
+    w: 0.999963164073
+header: 
+  seq: 3313
+  stamp: 
+    secs: 1557371299
+    nsecs: 466319084
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.32331408847
+    y: 0.620686669511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0085756845328
+    w: 0.999963228141
+header: 
+  seq: 3314
+  stamp: 
+    secs: 1557371299
+    nsecs: 486435890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.32837828838
+    y: 0.620800270059
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00892975975429
+    w: 0.999960128901
+header: 
+  seq: 3315
+  stamp: 
+    secs: 1557371299
+    nsecs: 526195049
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.33836675473
+    y: 0.620988289673
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00911400235411
+    w: 0.999958466618
+header: 
+  seq: 3316
+  stamp: 
+    secs: 1557371299
+    nsecs: 551238060
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.34465536502
+    y: 0.621081585567
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00885247986477
+    w: 0.999960816032
+header: 
+  seq: 3317
+  stamp: 
+    secs: 1557371299
+    nsecs: 586782932
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.35357367971
+    y: 0.621239533872
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00885130499076
+    w: 0.999960826433
+header: 
+  seq: 3318
+  stamp: 
+    secs: 1557371299
+    nsecs: 626060963
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.36341061728
+    y: 0.621419257564
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0089408212234
+    w: 0.999960030059
+header: 
+  seq: 3319
+  stamp: 
+    secs: 1557371299
+    nsecs: 666302919
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.37351485941
+    y: 0.621592890692
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00885398239933
+    w: 0.99996080273
+header: 
+  seq: 3320
+  stamp: 
+    secs: 1557371299
+    nsecs: 688024044
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.37896996405
+    y: 0.621696029666
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00894439179681
+    w: 0.999959998128
+header: 
+  seq: 3321
+  stamp: 
+    secs: 1557371299
+    nsecs: 726150990
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.38853400072
+    y: 0.621859944681
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00885564384725
+    w: 0.999960788017
+header: 
+  seq: 3322
+  stamp: 
+    secs: 1557371299
+    nsecs: 767129898
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.39879625146
+    y: 0.622029577336
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00867536860907
+    w: 0.999962368282
+header: 
+  seq: 3323
+  stamp: 
+    secs: 1557371299
+    nsecs: 787137985
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.40382333953
+    y: 0.622124980306
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0087621901657
+    w: 0.999961611275
+header: 
+  seq: 3324
+  stamp: 
+    secs: 1557371299
+    nsecs: 828890085
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.41429334737
+    y: 0.622328695987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00903513561606
+    w: 0.999959182329
+header: 
+  seq: 3325
+  stamp: 
+    secs: 1557371299
+    nsecs: 865468025
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.42345062295
+    y: 0.622484924282
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00894834875158
+    w: 0.999959962726
+header: 
+  seq: 3326
+  stamp: 
+    secs: 1557371299
+    nsecs: 885339975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.42843539506
+    y: 0.622556121904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00868536111607
+    w: 0.99996228154
+header: 
+  seq: 3327
+  stamp: 
+    secs: 1557371299
+    nsecs: 925220966
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.43843297358
+    y: 0.622715465585
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00841098288424
+    w: 0.999964627058
+header: 
+  seq: 3328
+  stamp: 
+    secs: 1557371299
+    nsecs: 970221043
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.44971405348
+    y: 0.622918395477
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00847894939035
+    w: 0.999964053063
+header: 
+  seq: 3329
+  stamp: 
+    secs: 1557371299
+    nsecs: 985414028
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.45351510819
+    y: 0.622984782308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0084831105415
+    w: 0.99996401777
+header: 
+  seq: 3330
+  stamp: 
+    secs: 1557371300
+    nsecs:  25922060
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.46366038153
+    y: 0.623141798172
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00820536086668
+    w: 0.99996633546
+header: 
+  seq: 3331
+  stamp: 
+    secs: 1557371300
+    nsecs:  65160990
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.47348799993
+    y: 0.623315829097
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00828886773032
+    w: 0.999965646746
+header: 
+  seq: 3332
+  stamp: 
+    secs: 1557371300
+    nsecs:  90806961
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.47991879886
+    y: 0.623431073173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00837021227426
+    w: 0.99996496916
+header: 
+  seq: 3333
+  stamp: 
+    secs: 1557371300
+    nsecs: 124813080
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.48843281552
+    y: 0.623538795184
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00783079996709
+    w: 0.999969338816
+header: 
+  seq: 3334
+  stamp: 
+    secs: 1557371300
+    nsecs: 165240049
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.49855444242
+    y: 0.623707112468
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00781380237956
+    w: 0.99996947178
+header: 
+  seq: 3335
+  stamp: 
+    secs: 1557371300
+    nsecs: 204787016
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.5084565402
+    y: 0.6238449482
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00744315768871
+    w: 0.999972299318
+header: 
+  seq: 3336
+  stamp: 
+    secs: 1557371300
+    nsecs: 232311010
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.51535335882
+    y: 0.623947294188
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00730515248749
+    w: 0.999973317018
+header: 
+  seq: 3337
+  stamp: 
+    secs: 1557371300
+    nsecs: 265093088
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.52355669151
+    y: 0.624072937723
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00723440263181
+    w: 0.999973831367
+header: 
+  seq: 3338
+  stamp: 
+    secs: 1557371300
+    nsecs: 304423094
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.5334046042
+    y: 0.62420761852
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00695218324918
+    w: 0.999975833282
+header: 
+  seq: 3339
+  stamp: 
+    secs: 1557371300
+    nsecs: 326215982
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.53886213466
+    y: 0.6242838574
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00684170951104
+    w: 0.999976595232
+header: 
+  seq: 3340
+  stamp: 
+    secs: 1557371300
+    nsecs: 370857954
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.55004076799
+    y: 0.624448921086
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00680314406454
+    w: 0.999976858348
+header: 
+  seq: 3341
+  stamp: 
+    secs: 1557371300
+    nsecs: 384361982
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.5534176667
+    y: 0.624505800365
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00690964987963
+    w: 0.999976128084
+header: 
+  seq: 3342
+  stamp: 
+    secs: 1557371300
+    nsecs: 425807953
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.5637910833
+    y: 0.624649481869
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0068051772745
+    w: 0.999976844513
+header: 
+  seq: 3343
+  stamp: 
+    secs: 1557371300
+    nsecs: 464179993
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.57339643096
+    y: 0.624755957412
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00634866227788
+    w: 0.999979847041
+header: 
+  seq: 3344
+  stamp: 
+    secs: 1557371300
+    nsecs: 504188061
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.5834101462
+    y: 0.624876073336
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00605749667412
+    w: 0.999981653199
+header: 
+  seq: 3345
+  stamp: 
+    secs: 1557371300
+    nsecs: 533358097
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.59071304269
+    y: 0.624971324072
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00600009393424
+    w: 0.999981999274
+header: 
+  seq: 3346
+  stamp: 
+    secs: 1557371300
+    nsecs: 564269066
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.59844684825
+    y: 0.625051179414
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00566536516228
+    w: 0.99998395169
+header: 
+  seq: 3347
+  stamp: 
+    secs: 1557371300
+    nsecs: 606051922
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.60890371461
+    y: 0.625146175532
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00508456491309
+    w: 0.999987073516
+header: 
+  seq: 3348
+  stamp: 
+    secs: 1557371300
+    nsecs: 624840975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.61360920817
+    y: 0.625192136915
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00489834973883
+    w: 0.999988003013
+header: 
+  seq: 3349
+  stamp: 
+    secs: 1557371300
+    nsecs: 663610935
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.62331006659
+    y: 0.625299308858
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00478013638924
+    w: 0.999988575083
+header: 
+  seq: 3350
+  stamp: 
+    secs: 1557371300
+    nsecs: 703749895
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.63335348704
+    y: 0.625416100836
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00483886537939
+    w: 0.999988292622
+header: 
+  seq: 3351
+  stamp: 
+    secs: 1557371300
+    nsecs: 723512888
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.63829644403
+    y: 0.625457213373
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00465259747553
+    w: 0.99998917661
+header: 
+  seq: 3352
+  stamp: 
+    secs: 1557371300
+    nsecs: 763475895
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.64829631611
+    y: 0.625549446208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00445345884962
+    w: 0.999990083303
+header: 
+  seq: 3353
+  stamp: 
+    secs: 1557371300
+    nsecs: 803632975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.65834245939
+    y: 0.625656174915
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00452051751844
+    w: 0.999989782408
+header: 
+  seq: 3354
+  stamp: 
+    secs: 1557371300
+    nsecs: 825139999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.66372384322
+    y: 0.625702782428
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0044192951329
+    w: 0.999990234868
+header: 
+  seq: 3355
+  stamp: 
+    secs: 1557371300
+    nsecs: 863696098
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.67337072084
+    y: 0.625814244212
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00468075765442
+    w: 0.999989045194
+header: 
+  seq: 3356
+  stamp: 
+    secs: 1557371300
+    nsecs: 905940056
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.68393842277
+    y: 0.625928131613
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00486144072806
+    w: 0.999988183127
+header: 
+  seq: 3357
+  stamp: 
+    secs: 1557371300
+    nsecs: 931912899
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.690436704
+    y: 0.62599118888
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00486314148591
+    w: 0.999988174858
+header: 
+  seq: 3358
+  stamp: 
+    secs: 1557371300
+    nsecs: 969774008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.6999075324
+    y: 0.626070040916
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00467478253638
+    w: 0.999989073144
+header: 
+  seq: 3359
+  stamp: 
+    secs: 1557371301
+    nsecs:   2969980
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.7082117238
+    y: 0.626156228652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00476978086553
+    w: 0.999988624531
+header: 
+  seq: 3360
+  stamp: 
+    secs: 1557371301
+    nsecs:  43476105
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.71834310405
+    y: 0.626253746772
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00477040034744
+    w: 0.999988621576
+header: 
+  seq: 3361
+  stamp: 
+    secs: 1557371301
+    nsecs:  64735889
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.72366094747
+    y: 0.62630492456
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00476946566895
+    w: 0.999988626034
+header: 
+  seq: 3362
+  stamp: 
+    secs: 1557371301
+    nsecs: 103328943
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.73331471081
+    y: 0.626403794861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00485842226512
+    w: 0.999988197797
+header: 
+  seq: 3363
+  stamp: 
+    secs: 1557371301
+    nsecs: 143712997
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.74341543074
+    y: 0.626494937891
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00477050207989
+    w: 0.99998862109
+header: 
+  seq: 3364
+  stamp: 
+    secs: 1557371301
+    nsecs: 162606001
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.74814063005
+    y: 0.62654643412
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00485910385595
+    w: 0.999988194485
+header: 
+  seq: 3365
+  stamp: 
+    secs: 1557371301
+    nsecs: 202389956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.75809120075
+    y: 0.626648563188
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00495125595505
+    w: 0.999987742457
+header: 
+  seq: 3366
+  stamp: 
+    secs: 1557371301
+    nsecs: 243377924
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.76834297553
+    y: 0.626729863262
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00468353878029
+    w: 0.999989032172
+header: 
+  seq: 3367
+  stamp: 
+    secs: 1557371301
+    nsecs: 262943983
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.7732368126
+    y: 0.62676497765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00450264109417
+    w: 0.99998986306
+header: 
+  seq: 3368
+  stamp: 
+    secs: 1557371301
+    nsecs: 304332018
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.78358822943
+    y: 0.626850946162
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00430911883553
+    w: 0.999990715704
+header: 
+  seq: 3369
+  stamp: 
+    secs: 1557371301
+    nsecs: 344002962
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.79350915733
+    y: 0.626942917352
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0042982172199
+    w: 0.999990762622
+header: 
+  seq: 3370
+  stamp: 
+    secs: 1557371301
+    nsecs: 362179041
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.79805524822
+    y: 0.626984592958
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00429741102534
+    w: 0.999990766087
+header: 
+  seq: 3371
+  stamp: 
+    secs: 1557371301
+    nsecs: 402379990
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.80810885309
+    y: 0.627062924242
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00410954605555
+    w: 0.99999155578
+header: 
+  seq: 3372
+  stamp: 
+    secs: 1557371301
+    nsecs: 441967964
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.81800895354
+    y: 0.627162165787
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00427771080364
+    w: 0.999990850553
+header: 
+  seq: 3373
+  stamp: 
+    secs: 1557371301
+    nsecs: 462907076
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.82324528876
+    y: 0.627207793043
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00427570917689
+    w: 0.999990859114
+header: 
+  seq: 3374
+  stamp: 
+    secs: 1557371301
+    nsecs: 506316900
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.83410272374
+    y: 0.627302216124
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00427343819046
+    w: 0.999990868821
+header: 
+  seq: 3375
+  stamp: 
+    secs: 1557371301
+    nsecs: 543905973
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.84350236264
+    y: 0.627383603903
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00427046814582
+    w: 0.999990881509
+header: 
+  seq: 3376
+  stamp: 
+    secs: 1557371301
+    nsecs: 581867933
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.85299547612
+    y: 0.627477271591
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00444640603533
+    w: 0.999990114688
+header: 
+  seq: 3377
+  stamp: 
+    secs: 1557371301
+    nsecs: 621541977
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.86291713549
+    y: 0.627545164918
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00418652242084
+    w: 0.999991236477
+header: 
+  seq: 3378
+  stamp: 
+    secs: 1557371301
+    nsecs: 641674995
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.8679513042
+    y: 0.627576567192
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00400758704259
+    w: 0.999991969591
+header: 
+  seq: 3379
+  stamp: 
+    secs: 1557371301
+    nsecs: 681706905
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.877961912
+    y: 0.627643521356
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00373125492424
+    w: 0.999993038844
+header: 
+  seq: 3380
+  stamp: 
+    secs: 1557371301
+    nsecs: 721369982
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.88787986998
+    y: 0.627712860249
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0035358521611
+    w: 0.999993748855
+header: 
+  seq: 3381
+  stamp: 
+    secs: 1557371301
+    nsecs: 741621971
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.89294628522
+    y: 0.62775318136
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00352606396879
+    w: 0.999993783417
+header: 
+  seq: 3382
+  stamp: 
+    secs: 1557371301
+    nsecs: 782912970
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.90327088663
+    y: 0.627833238471
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00351060650568
+    w: 0.999993837802
+header: 
+  seq: 3383
+  stamp: 
+    secs: 1557371301
+    nsecs: 821741104
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.91297926114
+    y: 0.627876844983
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00305690213889
+    w: 0.999995327664
+header: 
+  seq: 3384
+  stamp: 
+    secs: 1557371301
+    nsecs: 854247093
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.92110718114
+    y: 0.627919149005
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00279695631557
+    w: 0.99999608851
+header: 
+  seq: 3385
+  stamp: 
+    secs: 1557371301
+    nsecs: 881143093
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.92783334982
+    y: 0.62793389111
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0023116413166
+    w: 0.999997328154
+header: 
+  seq: 3386
+  stamp: 
+    secs: 1557371301
+    nsecs: 920984030
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.93779566571
+    y: 0.627979038514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00201173514791
+    w: 0.999997976459
+header: 
+  seq: 3387
+  stamp: 
+    secs: 1557371301
+    nsecs: 940906048
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.94277600207
+    y: 0.628008098445
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00199458635103
+    w: 0.999998010811
+header: 
+  seq: 3388
+  stamp: 
+    secs: 1557371301
+    nsecs: 981004953
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.95280261373
+    y: 0.628056698014
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00187387956488
+    w: 0.999998244286
+header: 
+  seq: 3389
+  stamp: 
+    secs: 1557371302
+    nsecs:  20807028
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.96275495594
+    y: 0.62808174089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00149130450896
+    w: 0.999998888005
+header: 
+  seq: 3390
+  stamp: 
+    secs: 1557371302
+    nsecs:  50165892
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.97009573711
+    y: 0.628091814835
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00113804876563
+    w: 0.999999352422
+header: 
+  seq: 3391
+  stamp: 
+    secs: 1557371302
+    nsecs:  80585003
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.9777028403
+    y: 0.628120548544
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0010859566334
+    w: 0.999999410349
+header: 
+  seq: 3392
+  stamp: 
+    secs: 1557371302
+    nsecs: 120421886
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.98766348813
+    y: 0.628161356771
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00114652331062
+    w: 0.999999342742
+header: 
+  seq: 3393
+  stamp: 
+    secs: 1557371302
+    nsecs: 153507948
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 1.99593525615
+    y: 0.628184668237
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00109390538272
+    w: 0.999999401685
+header: 
+  seq: 3394
+  stamp: 
+    secs: 1557371302
+    nsecs: 180902004
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.00278548967
+    y: 0.628226077493
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00139672649524
+    w: 0.999999024577
+header: 
+  seq: 3395
+  stamp: 
+    secs: 1557371302
+    nsecs: 221091032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.01283559437
+    y: 0.628256596994
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0013960204666
+    w: 0.999999025563
+header: 
+  seq: 3396
+  stamp: 
+    secs: 1557371302
+    nsecs: 243227959
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.01836878496
+    y: 0.628273141122
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00139218108263
+    w: 0.999999030915
+header: 
+  seq: 3397
+  stamp: 
+    secs: 1557371302
+    nsecs: 280189037
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.02761014256
+    y: 0.628294668915
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00130278923236
+    w: 0.99999915137
+header: 
+  seq: 3398
+  stamp: 
+    secs: 1557371302
+    nsecs: 313467979
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.03593051868
+    y: 0.628324379096
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00138283567615
+    w: 0.999999043882
+header: 
+  seq: 3399
+  stamp: 
+    secs: 1557371302
+    nsecs: 359985113
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.04756087575
+    y: 0.628364217205
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0014775857708
+    w: 0.99999890837
+header: 
+  seq: 3400
+  stamp: 
+    secs: 1557371302
+    nsecs: 379828930
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.05252407213
+    y: 0.628384622885
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00156623300174
+    w: 0.999998773456
+header: 
+  seq: 3401
+  stamp: 
+    secs: 1557371302
+    nsecs: 419889927
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.0625412958
+    y: 0.62840813087
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00148046982532
+    w: 0.999998904104
+header: 
+  seq: 3402
+  stamp: 
+    secs: 1557371302
+    nsecs: 459718943
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.07249907522
+    y: 0.628431583639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00139286720312
+    w: 0.99999902996
+header: 
+  seq: 3403
+  stamp: 
+    secs: 1557371302
+    nsecs: 480350971
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.07765641578
+    y: 0.628440685172
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00130248513208
+    w: 0.999999151766
+header: 
+  seq: 3404
+  stamp: 
+    secs: 1557371302
+    nsecs: 519733906
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.08750297314
+    y: 0.628462814103
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00120837313195
+    w: 0.999999269917
+header: 
+  seq: 3405
+  stamp: 
+    secs: 1557371302
+    nsecs: 560167074
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.09761226325
+    y: 0.628472218454
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000932097419809
+    w: 0.999999565597
+header: 
+  seq: 3406
+  stamp: 
+    secs: 1557371302
+    nsecs: 580085993
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.10259276651
+    y: 0.6284730376
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000748582493379
+    w: 0.999999719812
+header: 
+  seq: 3407
+  stamp: 
+    secs: 1557371302
+    nsecs: 619596958
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.11247161286
+    y: 0.628472008101
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000376776818665
+    w: 0.99999992902
+header: 
+  seq: 3408
+  stamp: 
+    secs: 1557371302
+    nsecs: 659399033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.12242249107
+    y: 0.628478692497
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000175040059688
+    w: 0.99999998468
+header: 
+  seq: 3409
+  stamp: 
+    secs: 1557371302
+    nsecs: 680053949
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.12758639888
+    y: 0.628486390464
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000160672837755
+    w: 0.999999987092
+header: 
+  seq: 3410
+  stamp: 
+    secs: 1557371302
+    nsecs: 724384069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.1386697271
+    y: 0.628506054708
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000221003047513
+    w: 0.999999975579
+header: 
+  seq: 3411
+  stamp: 
+    secs: 1557371302
+    nsecs: 759155035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.14736450741
+    y: 0.628510308294
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00013527608946
+    w: 0.99999999085
+header: 
+  seq: 3412
+  stamp: 
+    secs: 1557371302
+    nsecs: 780577898
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.15271931791
+    y: 0.628514949433
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.000125536235232
+    w: 0.99999999212
+header: 
+  seq: 3413
+  stamp: 
+    secs: 1557371302
+    nsecs: 819268942
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.16239246817
+    y: 0.628498326536
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.000239051265889
+    w: 0.999999971427
+header: 
+  seq: 3414
+  stamp: 
+    secs: 1557371302
+    nsecs: 858877897
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.17229536439
+    y: 0.628484723794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.000523188819395
+    w: 0.999999863137
+header: 
+  seq: 3415
+  stamp: 
+    secs: 1557371302
+    nsecs: 880091906
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.17760083015
+    y: 0.62849742139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.000362445371834
+    w: 0.999999934317
+header: 
+  seq: 3416
+  stamp: 
+    secs: 1557371302
+    nsecs: 919002056
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.18732797674
+    y: 0.6284789245
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00064137846741
+    w: 0.999999794317
+header: 
+  seq: 3417
+  stamp: 
+    secs: 1557371302
+    nsecs: 958676100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.19724718858
+    y: 0.628450971616
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00101510631912
+    w: 0.999999484779
+header: 
+  seq: 3418
+  stamp: 
+    secs: 1557371302
+    nsecs: 986521006
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.20420796235
+    y: 0.62844945124
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.000973199000461
+    w: 0.999999526442
+header: 
+  seq: 3419
+  stamp: 
+    secs: 1557371303
+    nsecs:  18584967
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.2122253003
+    y: 0.628437235679
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00104841409312
+    w: 0.999999450414
+header: 
+  seq: 3420
+  stamp: 
+    secs: 1557371303
+    nsecs:  58536053
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.22221321403
+    y: 0.628399989314
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00142241369085
+    w: 0.999998988369
+header: 
+  seq: 3421
+  stamp: 
+    secs: 1557371303
+    nsecs:  98897934
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.23230539804
+    y: 0.628388705562
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00135752642482
+    w: 0.999999078561
+header: 
+  seq: 3422
+  stamp: 
+    secs: 1557371303
+    nsecs: 118295908
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.2371536711
+    y: 0.628379311294
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00136345915506
+    w: 0.999999070489
+header: 
+  seq: 3423
+  stamp: 
+    secs: 1557371303
+    nsecs: 160832882
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.24778836743
+    y: 0.628344222816
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00156279459077
+    w: 0.999998778836
+header: 
+  seq: 3424
+  stamp: 
+    secs: 1557371303
+    nsecs: 198081970
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.25710075225
+    y: 0.628316397651
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00165793139834
+    w: 0.999998625631
+header: 
+  seq: 3425
+  stamp: 
+    secs: 1557371303
+    nsecs: 231012106
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.26533349434
+    y: 0.628286121709
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00179738614395
+    w: 0.9999983847
+header: 
+  seq: 3426
+  stamp: 
+    secs: 1557371303
+    nsecs: 258265972
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.27214774721
+    y: 0.628233327782
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00230537265228
+    w: 0.999997342625
+header: 
+  seq: 3427
+  stamp: 
+    secs: 1557371303
+    nsecs: 297987938
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.28207795952
+    y: 0.628188639131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0025102087991
+    w: 0.999996849421
+header: 
+  seq: 3428
+  stamp: 
+    secs: 1557371303
+    nsecs: 326359034
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.28917082456
+    y: 0.628147167726
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00275419079719
+    w: 0.999996207209
+header: 
+  seq: 3429
+  stamp: 
+    secs: 1557371303
+    nsecs: 359225988
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.29738871975
+    y: 0.62811086838
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00281950371045
+    w: 0.999996025192
+header: 
+  seq: 3430
+  stamp: 
+    secs: 1557371303
+    nsecs: 397753000
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.30702071108
+    y: 0.628045104514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00318866566639
+    w: 0.999994916193
+header: 
+  seq: 3431
+  stamp: 
+    secs: 1557371303
+    nsecs: 418651104
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.31224480108
+    y: 0.628014053369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00329923599174
+    w: 0.999994557506
+header: 
+  seq: 3432
+  stamp: 
+    secs: 1557371303
+    nsecs: 457959890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.32207197189
+    y: 0.627951399455
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00350192072611
+    w: 0.999993868257
+header: 
+  seq: 3433
+  stamp: 
+    secs: 1557371303
+    nsecs: 500890970
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.33280483015
+    y: 0.62788973509
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0035410253754
+    w: 0.99999373055
+header: 
+  seq: 3434
+  stamp: 
+    secs: 1557371303
+    nsecs: 518805981
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.33728384018
+    y: 0.627887567216
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00318576063727
+    w: 0.999994925452
+header: 
+  seq: 3435
+  stamp: 
+    secs: 1557371303
+    nsecs: 557415009
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.34693647029
+    y: 0.627858939502
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00275069079064
+    w: 0.999996216843
+header: 
+  seq: 3436
+  stamp: 
+    secs: 1557371303
+    nsecs: 597840071
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.35704282097
+    y: 0.627816503272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00247424456439
+    w: 0.999996939052
+header: 
+  seq: 3437
+  stamp: 
+    secs: 1557371303
+    nsecs: 626153946
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.36412106078
+    y: 0.627758324643
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00272179380923
+    w: 0.999996295912
+header: 
+  seq: 3438
+  stamp: 
+    secs: 1557371303
+    nsecs: 657243967
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.37189383207
+    y: 0.627695383797
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0029940280027
+    w: 0.999995517888
+header: 
+  seq: 3439
+  stamp: 
+    secs: 1557371303
+    nsecs: 697895050
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.38205686192
+    y: 0.627654704405
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0027310841918
+    w: 0.999996270583
+header: 
+  seq: 3440
+  stamp: 
+    secs: 1557371303
+    nsecs: 717082024
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.38685315959
+    y: 0.627633193564
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00264077641556
+    w: 0.999996513144
+header: 
+  seq: 3441
+  stamp: 
+    secs: 1557371303
+    nsecs: 766410112
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.39918522004
+    y: 0.627577615677
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0024319460259
+    w: 0.999997042815
+header: 
+  seq: 3442
+  stamp: 
+    secs: 1557371303
+    nsecs: 796897888
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.40680779113
+    y: 0.627523054213
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00262167370496
+    w: 0.999996563408
+header: 
+  seq: 3443
+  stamp: 
+    secs: 1557371303
+    nsecs: 816816092
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.41178704568
+    y: 0.627496367476
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00262057168511
+    w: 0.999996566296
+header: 
+  seq: 3444
+  stamp: 
+    secs: 1557371303
+    nsecs: 856744051
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.42176894856
+    y: 0.627437054217
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0027090049908
+    w: 0.999996330639
+header: 
+  seq: 3445
+  stamp: 
+    secs: 1557371303
+    nsecs: 896739006
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.43176766967
+    y: 0.627377325688
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00279992798047
+    w: 0.999996080194
+header: 
+  seq: 3446
+  stamp: 
+    secs: 1557371303
+    nsecs: 924396038
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.438681812
+    y: 0.627333168645
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00290036649234
+    w: 0.999995793928
+header: 
+  seq: 3447
+  stamp: 
+    secs: 1557371303
+    nsecs: 962991953
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.44833078268
+    y: 0.627267605248
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00308860045209
+    w: 0.999995230262
+header: 
+  seq: 3448
+  stamp: 
+    secs: 1557371303
+    nsecs: 996598959
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.45673240452
+    y: 0.627214534672
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00317378237268
+    w: 0.99999496354
+header: 
+  seq: 3449
+  stamp: 
+    secs: 1557371304
+    nsecs:  16474962
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.46170161905
+    y: 0.627185681947
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0031786135123
+    w: 0.999994948195
+header: 
+  seq: 3450
+  stamp: 
+    secs: 1557371304
+    nsecs:  59990883
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.47258033878
+    y: 0.62711452585
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00328300241569
+    w: 0.999994610933
+header: 
+  seq: 3451
+  stamp: 
+    secs: 1557371304
+    nsecs:  96585989
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.48172949469
+    y: 0.627053304634
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00337168677279
+    w: 0.999994315848
+header: 
+  seq: 3452
+  stamp: 
+    secs: 1557371304
+    nsecs: 136343956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.49166836786
+    y: 0.626979163045
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00356017558761
+    w: 0.999993662555
+header: 
+  seq: 3453
+  stamp: 
+    secs: 1557371304
+    nsecs: 166919947
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.49931198412
+    y: 0.626915093315
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00378641734335
+    w: 0.999992831496
+header: 
+  seq: 3454
+  stamp: 
+    secs: 1557371304
+    nsecs: 196008921
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.50658419216
+    y: 0.626863059422
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00384856115058
+    w: 0.999992594261
+header: 
+  seq: 3455
+  stamp: 
+    secs: 1557371304
+    nsecs: 235914946
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.5165606716
+    y: 0.626775965616
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00413006485038
+    w: 0.999991471246
+header: 
+  seq: 3456
+  stamp: 
+    secs: 1557371304
+    nsecs: 257427931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.5219383899
+    y: 0.626724727818
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0043266956513
+    w: 0.999990639809
+header: 
+  seq: 3457
+  stamp: 
+    secs: 1557371304
+    nsecs: 296052933
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.5315942803
+    y: 0.626640841411
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00451990665812
+    w: 0.99998978517
+header: 
+  seq: 3458
+  stamp: 
+    secs: 1557371304
+    nsecs: 335714102
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.54151033934
+    y: 0.626575481575
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00436001470264
+    w: 0.999990495091
+header: 
+  seq: 3459
+  stamp: 
+    secs: 1557371304
+    nsecs: 355823994
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.5465370995
+    y: 0.626547069628
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00418913850566
+    w: 0.999991225521
+header: 
+  seq: 3460
+  stamp: 
+    secs: 1557371304
+    nsecs: 396390915
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.55667855921
+    y: 0.626470780868
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00410516509157
+    w: 0.999991573774
+header: 
+  seq: 3461
+  stamp: 
+    secs: 1557371304
+    nsecs: 435587883
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.56647741453
+    y: 0.626384725109
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00419648826241
+    w: 0.999991194704
+header: 
+  seq: 3462
+  stamp: 
+    secs: 1557371304
+    nsecs: 469374895
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.57492364305
+    y: 0.626294599102
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00450308004037
+    w: 0.999989861084
+header: 
+  seq: 3463
+  stamp: 
+    secs: 1557371304
+    nsecs: 496319056
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.58165930608
+    y: 0.626215403968
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0048417681403
+    w: 0.999988278572
+header: 
+  seq: 3464
+  stamp: 
+    secs: 1557371304
+    nsecs: 535259008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.59139490209
+    y: 0.626093841265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00539641973866
+    w: 0.999985439221
+header: 
+  seq: 3465
+  stamp: 
+    secs: 1557371304
+    nsecs: 565517902
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.59896124939
+    y: 0.626000497648
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00576321879915
+    w: 0.999983392517
+header: 
+  seq: 3466
+  stamp: 
+    secs: 1557371304
+    nsecs: 595208883
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.60638656644
+    y: 0.625909428879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00607241821992
+    w: 0.999981562699
+header: 
+  seq: 3467
+  stamp: 
+    secs: 1557371304
+    nsecs: 635299921
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.61641434891
+    y: 0.625788079287
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00637645501598
+    w: 0.999979670204
+header: 
+  seq: 3468
+  stamp: 
+    secs: 1557371304
+    nsecs: 655091047
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.62136533008
+    y: 0.625734523584
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00639225757068
+    w: 0.999979569313
+header: 
+  seq: 3469
+  stamp: 
+    secs: 1557371304
+    nsecs: 697578907
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.63199551086
+    y: 0.625608072905
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0065259970752
+    w: 0.999978705454
+header: 
+  seq: 3470
+  stamp: 
+    secs: 1557371304
+    nsecs: 734894991
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.64133350185
+    y: 0.62550578908
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00644530676346
+    w: 0.999979228795
+header: 
+  seq: 3471
+  stamp: 
+    secs: 1557371304
+    nsecs: 763803005
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.64856833149
+    y: 0.625410657664
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00657954116949
+    w: 0.999978354585
+header: 
+  seq: 3472
+  stamp: 
+    secs: 1557371304
+    nsecs: 805073023
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.65889872468
+    y: 0.625284239125
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00659081626035
+    w: 0.999978280335
+header: 
+  seq: 3473
+  stamp: 
+    secs: 1557371304
+    nsecs: 834719896
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.66632079623
+    y: 0.625187604924
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00666029774674
+    w: 0.999977819971
+header: 
+  seq: 3474
+  stamp: 
+    secs: 1557371304
+    nsecs: 855005980
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.671399986
+    y: 0.625123392663
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00666742075784
+    w: 0.999977772503
+header: 
+  seq: 3475
+  stamp: 
+    secs: 1557371304
+    nsecs: 896120071
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.68169543251
+    y: 0.624991755632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00667997252167
+    w: 0.999977688735
+header: 
+  seq: 3476
+  stamp: 
+    secs: 1557371304
+    nsecs: 934520960
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.69131313782
+    y: 0.624867552712
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00668483228998
+    w: 0.999977656259
+header: 
+  seq: 3477
+  stamp: 
+    secs: 1557371304
+    nsecs: 974392891
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.70130098537
+    y: 0.624737220697
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00669069882564
+    w: 0.999977617024
+header: 
+  seq: 3478
+  stamp: 
+    secs: 1557371304
+    nsecs: 995486975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.70658572292
+    y: 0.624667853441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00669426326893
+    w: 0.999977593169
+header: 
+  seq: 3479
+  stamp: 
+    secs: 1557371305
+    nsecs:  34876108
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.71645518331
+    y: 0.624531641046
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00678842206287
+    w: 0.999976958397
+header: 
+  seq: 3480
+  stamp: 
+    secs: 1557371305
+    nsecs:  74251890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.72632308207
+    y: 0.624400475217
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00679300134583
+    w: 0.9999769273
+header: 
+  seq: 3481
+  stamp: 
+    secs: 1557371305
+    nsecs:  94337940
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.73135747022
+    y: 0.624333190778
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00679520519212
+    w: 0.999976912327
+header: 
+  seq: 3482
+  stamp: 
+    secs: 1557371305
+    nsecs: 139276981
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.74262264694
+    y: 0.624181926897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680186851948
+    w: 0.999976867025
+header: 
+  seq: 3483
+  stamp: 
+    secs: 1557371305
+    nsecs: 173935890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.75131235987
+    y: 0.624065169162
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680114266261
+    w: 0.999976871962
+header: 
+  seq: 3484
+  stamp: 
+    secs: 1557371305
+    nsecs: 213838100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.761318318
+    y: 0.623930119266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.006803192502
+    w: 0.999976858018
+header: 
+  seq: 3485
+  stamp: 
+    secs: 1557371305
+    nsecs: 233876944
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.76634396213
+    y: 0.623862163515
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680406277656
+    w: 0.999976852097
+header: 
+  seq: 3486
+  stamp: 
+    secs: 1557371305
+    nsecs: 274801970
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.77660913801
+    y: 0.623723132103
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680564511737
+    w: 0.999976841329
+header: 
+  seq: 3487
+  stamp: 
+    secs: 1557371305
+    nsecs: 313925982
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.78642430055
+    y: 0.623590048259
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680645500967
+    w: 0.999976835817
+header: 
+  seq: 3488
+  stamp: 
+    secs: 1557371305
+    nsecs: 335213900
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.79176557796
+    y: 0.623517538048
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680706232813
+    w: 0.999976831683
+header: 
+  seq: 3489
+  stamp: 
+    secs: 1557371305
+    nsecs: 376657963
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80216560273
+    y: 0.623376279912
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680783671516
+    w: 0.999976826411
+header: 
+  seq: 3490
+  stamp: 
+    secs: 1557371305
+    nsecs: 413574934
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.81143119519
+    y: 0.623250379268
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680797487925
+    w: 0.99997682547
+header: 
+  seq: 3491
+  stamp: 
+    secs: 1557371305
+    nsecs: 434832096
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.81676710056
+    y: 0.62317782709
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680828284345
+    w: 0.999976823374
+header: 
+  seq: 3492
+  stamp: 
+    secs: 1557371305
+    nsecs: 473304033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8264254766
+    y: 0.623046470397
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680850046626
+    w: 0.999976821892
+header: 
+  seq: 3493
+  stamp: 
+    secs: 1557371305
+    nsecs: 517322063
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.83747820914
+    y: 0.622896078101
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680892146905
+    w: 0.999976819026
+header: 
+  seq: 3494
+  stamp: 
+    secs: 1557371305
+    nsecs: 553582907
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.84658475876
+    y: 0.622772157062
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680894282397
+    w: 0.99997681888
+header: 
+  seq: 3495
+  stamp: 
+    secs: 1557371305
+    nsecs: 574947119
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.85195084952
+    y: 0.622699117053
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680906049147
+    w: 0.999976818079
+header: 
+  seq: 3496
+  stamp: 
+    secs: 1557371305
+    nsecs: 613202095
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.86156068966
+    y: 0.622568302481
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680913810242
+    w: 0.99997681755
+header: 
+  seq: 3497
+  stamp: 
+    secs: 1557371305
+    nsecs: 653001070
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.87156011048
+    y: 0.622432164821
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0068092312455
+    w: 0.999976816916
+header: 
+  seq: 3498
+  stamp: 
+    secs: 1557371305
+    nsecs: 693397999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.88171156049
+    y: 0.622293942621
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680930743937
+    w: 0.999976816397
+header: 
+  seq: 3499
+  stamp: 
+    secs: 1557371305
+    nsecs: 716234922
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.88745111065
+    y: 0.622215786647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680936569114
+    w: 0.999976816001
+header: 
+  seq: 3500
+  stamp: 
+    secs: 1557371305
+    nsecs: 760063887
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.89846815937
+    y: 0.62206576135
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680943374478
+    w: 0.999976815537
+header: 
+  seq: 3501
+  stamp: 
+    secs: 1557371305
+    nsecs: 793468952
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.90686643844
+    y: 0.621951396887
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680941350373
+    w: 0.999976815675
+header: 
+  seq: 3502
+  stamp: 
+    secs: 1557371305
+    nsecs: 812619925
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.91168169119
+    y: 0.621885821492
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680942271645
+    w: 0.999976815612
+header: 
+  seq: 3503
+  stamp: 
+    secs: 1557371305
+    nsecs: 852533102
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.92171862516
+    y: 0.621749131867
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680944518047
+    w: 0.999976815459
+header: 
+  seq: 3504
+  stamp: 
+    secs: 1557371305
+    nsecs: 894340038
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.93223367356
+    y: 0.621605927131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680946779644
+    w: 0.999976815305
+header: 
+  seq: 3505
+  stamp: 
+    secs: 1557371305
+    nsecs: 913280964
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.93699822732
+    y: 0.621541037922
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680947121064
+    w: 0.999976815282
+header: 
+  seq: 3506
+  stamp: 
+    secs: 1557371305
+    nsecs: 956120968
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.94777601478
+    y: 0.621394248849
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952988303
+    w: 0.999976814883
+header: 
+  seq: 3507
+  stamp: 
+    secs: 1557371305
+    nsecs: 969150066
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.95105430881
+    y: 0.621349601354
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680951626645
+    w: 0.999976814975
+header: 
+  seq: 3508
+  stamp: 
+    secs: 1557371306
+    nsecs:  23895979
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.96483116195
+    y: 0.621161966883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680951699265
+    w: 0.99997681497
+header: 
+  seq: 3509
+  stamp: 
+    secs: 1557371306
+    nsecs:  52315950
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.97198438
+    y: 0.621064542848
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680951025396
+    w: 0.999976815016
+header: 
+  seq: 3510
+  stamp: 
+    secs: 1557371306
+    nsecs:  94676018
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.98264793747
+    y: 0.620919307474
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680951722815
+    w: 0.999976814969
+header: 
+  seq: 3511
+  stamp: 
+    secs: 1557371306
+    nsecs: 125262022
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.9903487743
+    y: 0.620814423021
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952569359
+    w: 0.999976814911
+header: 
+  seq: 3512
+  stamp: 
+    secs: 1557371306
+    nsecs: 153186083
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.9973803014
+    y: 0.620718655055
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952117624
+    w: 0.999976814942
+header: 
+  seq: 3513
+  stamp: 
+    secs: 1557371306
+    nsecs: 191991091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 3.00715318222
+    y: 0.620585549525
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952300104
+    w: 0.999976814929
+header: 
+  seq: 3514
+  stamp: 
+    secs: 1557371306
+    nsecs: 220957994
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 3.0144494646
+    y: 0.620486174607
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952670491
+    w: 0.999976814904
+header: 
+  seq: 3515
+  stamp: 
+    secs: 1557371306
+    nsecs: 263587952
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.81064702085
+    y: 0.623253532973
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952808529
+    w: 0.999976814895
+header: 
+  seq: 3516
+  stamp: 
+    secs: 1557371306
+    nsecs: 292217016
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.81055000124
+    y: 0.623254846923
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952649433
+    w: 0.999976814906
+header: 
+  seq: 3517
+  stamp: 
+    secs: 1557371306
+    nsecs: 312361002
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.81029719221
+    y: 0.623258263418
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952695163
+    w: 0.999976814903
+header: 
+  seq: 3518
+  stamp: 
+    secs: 1557371306
+    nsecs: 352984905
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80971404203
+    y: 0.623266144143
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952772352
+    w: 0.999976814897
+header: 
+  seq: 3519
+  stamp: 
+    secs: 1557371306
+    nsecs: 395441055
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80931296436
+    y: 0.623271564682
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952843309
+    w: 0.999976814892
+header: 
+  seq: 3520
+  stamp: 
+    secs: 1557371306
+    nsecs: 431703091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80887584553
+    y: 0.623277472132
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952849919
+    w: 0.999976814892
+header: 
+  seq: 3521
+  stamp: 
+    secs: 1557371306
+    nsecs: 451863050
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80882484157
+    y: 0.623278162736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952866456
+    w: 0.999976814891
+header: 
+  seq: 3522
+  stamp: 
+    secs: 1557371306
+    nsecs: 491961956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80835072052
+    y: 0.623284569583
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952891284
+    w: 0.999976814889
+header: 
+  seq: 3523
+  stamp: 
+    secs: 1557371306
+    nsecs: 532902002
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80810935288
+    y: 0.623287832952
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952912337
+    w: 0.999976814888
+header: 
+  seq: 3524
+  stamp: 
+    secs: 1557371306
+    nsecs: 571681976
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80763836228
+    y: 0.623294197938
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952972988
+    w: 0.999976814884
+header: 
+  seq: 3525
+  stamp: 
+    secs: 1557371306
+    nsecs: 597328901
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80759103142
+    y: 0.623294839499
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952941593
+    w: 0.999976814886
+header: 
+  seq: 3526
+  stamp: 
+    secs: 1557371306
+    nsecs: 631473064
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80731914907
+    y: 0.623298513201
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952938931
+    w: 0.999976814886
+header: 
+  seq: 3527
+  stamp: 
+    secs: 1557371306
+    nsecs: 671241045
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80702025338
+    y: 0.623302552615
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952945841
+    w: 0.999976814886
+header: 
+  seq: 3528
+  stamp: 
+    secs: 1557371306
+    nsecs: 691996098
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80676092148
+    y: 0.623306056574
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952949505
+    w: 0.999976814885
+header: 
+  seq: 3529
+  stamp: 
+    secs: 1557371306
+    nsecs: 736280918
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80646481309
+    y: 0.62331005913
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952957469
+    w: 0.999976814885
+header: 
+  seq: 3530
+  stamp: 
+    secs: 1557371306
+    nsecs: 770795107
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80624951032
+    y: 0.623312969013
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952956595
+    w: 0.999976814885
+header: 
+  seq: 3531
+  stamp: 
+    secs: 1557371306
+    nsecs: 790566921
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80623595171
+    y: 0.623313153682
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952957897
+    w: 0.999976814885
+header: 
+  seq: 3532
+  stamp: 
+    secs: 1557371306
+    nsecs: 830466986
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80599046713
+    y: 0.623316471612
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952960163
+    w: 0.999976814885
+header: 
+  seq: 3533
+  stamp: 
+    secs: 1557371306
+    nsecs: 870440006
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80574243263
+    y: 0.623319823729
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952961879
+    w: 0.999976814884
+header: 
+  seq: 3534
+  stamp: 
+    secs: 1557371306
+    nsecs: 891828060
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80556023068
+    y: 0.623322285458
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952962913
+    w: 0.999976814884
+header: 
+  seq: 3535
+  stamp: 
+    secs: 1557371306
+    nsecs: 932826996
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80534932011
+    y: 0.623325136253
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952964139
+    w: 0.999976814884
+header: 
+  seq: 3536
+  stamp: 
+    secs: 1557371306
+    nsecs: 977138996
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80513216666
+    y: 0.623328071574
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952965514
+    w: 0.999976814884
+header: 
+  seq: 3537
+  stamp: 
+    secs: 1557371307
+    nsecs:  10847092
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80509767455
+    y: 0.623328541357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952965208
+    w: 0.999976814884
+header: 
+  seq: 3538
+  stamp: 
+    secs: 1557371307
+    nsecs:  30802965
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80495920843
+    y: 0.623330411001
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952965462
+    w: 0.999976814884
+header: 
+  seq: 3539
+  stamp: 
+    secs: 1557371307
+    nsecs:  71386099
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80477744249
+    y: 0.623332867628
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952965915
+    w: 0.999976814884
+header: 
+  seq: 3540
+  stamp: 
+    secs: 1557371307
+    nsecs: 110450983
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80459664964
+    y: 0.623335310929
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966161
+    w: 0.999976814884
+header: 
+  seq: 3541
+  stamp: 
+    secs: 1557371307
+    nsecs: 132674932
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80446359514
+    y: 0.623337108557
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966389
+    w: 0.999976814884
+header: 
+  seq: 3542
+  stamp: 
+    secs: 1557371307
+    nsecs: 173257113
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80431060497
+    y: 0.623339176445
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966584
+    w: 0.999976814884
+header: 
+  seq: 3543
+  stamp: 
+    secs: 1557371307
+    nsecs: 210299015
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80418093517
+    y: 0.623340928794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966624
+    w: 0.999976814884
+header: 
+  seq: 3544
+  stamp: 
+    secs: 1557371307
+    nsecs: 229696035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80414644748
+    y: 0.623341395003
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966666
+    w: 0.999976814884
+header: 
+  seq: 3545
+  stamp: 
+    secs: 1557371307
+    nsecs: 269681931
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80402533413
+    y: 0.623343031629
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0068095296676
+    w: 0.999976814884
+header: 
+  seq: 3546
+  stamp: 
+    secs: 1557371307
+    nsecs: 309798956
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80390290868
+    y: 0.623344685899
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0068095296683
+    w: 0.999976814884
+header: 
+  seq: 3547
+  stamp: 
+    secs: 1557371307
+    nsecs: 345283031
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80376073228
+    y: 0.623346607024
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967038
+    w: 0.999976814884
+header: 
+  seq: 3548
+  stamp: 
+    secs: 1557371307
+    nsecs: 369982004
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80374611199
+    y: 0.623346806153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966904
+    w: 0.999976814884
+header: 
+  seq: 3549
+  stamp: 
+    secs: 1557371307
+    nsecs: 409280062
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8036421259
+    y: 0.623348212368
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966934
+    w: 0.999976814884
+header: 
+  seq: 3550
+  stamp: 
+    secs: 1557371307
+    nsecs: 431123018
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80351988882
+    y: 0.623349862524
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966959
+    w: 0.999976814884
+header: 
+  seq: 3551
+  stamp: 
+    secs: 1557371307
+    nsecs: 470371008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80341950152
+    y: 0.623351219339
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952966977
+    w: 0.999976814884
+header: 
+  seq: 3552
+  stamp: 
+    secs: 1557371307
+    nsecs: 515088081
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80331658283
+    y: 0.623352610408
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967009
+    w: 0.999976814884
+header: 
+  seq: 3553
+  stamp: 
+    secs: 1557371307
+    nsecs: 531265020
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8032856168
+    y: 0.623353028795
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967003
+    w: 0.999976814884
+header: 
+  seq: 3554
+  stamp: 
+    secs: 1557371307
+    nsecs: 568859100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80320046951
+    y: 0.623354179732
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967008
+    w: 0.999976814884
+header: 
+  seq: 3555
+  stamp: 
+    secs: 1557371307
+    nsecs: 609709978
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80310203417
+    y: 0.623355510074
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967019
+    w: 0.999976814884
+header: 
+  seq: 3556
+  stamp: 
+    secs: 1557371307
+    nsecs: 648679972
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8030712934
+    y: 0.623355928763
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967024
+    w: 0.999976814884
+header: 
+  seq: 3557
+  stamp: 
+    secs: 1557371307
+    nsecs: 668946028
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80300838835
+    y: 0.623356777177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967028
+    w: 0.999976814884
+header: 
+  seq: 3558
+  stamp: 
+    secs: 1557371307
+    nsecs: 710556030
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8029291477
+    y: 0.62335784835
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967034
+    w: 0.999976814884
+header: 
+  seq: 3559
+  stamp: 
+    secs: 1557371307
+    nsecs: 748455048
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80285745907
+    y: 0.623358817231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967035
+    w: 0.999976814884
+header: 
+  seq: 3560
+  stamp: 
+    secs: 1557371307
+    nsecs: 768424034
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80279595456
+    y: 0.623359647691
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967037
+    w: 0.999976814884
+header: 
+  seq: 3561
+  stamp: 
+    secs: 1557371307
+    nsecs: 812870026
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80271925327
+    y: 0.623360684612
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967041
+    w: 0.999976814884
+header: 
+  seq: 3562
+  stamp: 
+    secs: 1557371307
+    nsecs: 848840952
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80267236604
+    y: 0.62336131828
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967041
+    w: 0.999976814884
+header: 
+  seq: 3563
+  stamp: 
+    secs: 1557371307
+    nsecs: 868824959
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80266120564
+    y: 0.623361470284
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967042
+    w: 0.999976814884
+header: 
+  seq: 3564
+  stamp: 
+    secs: 1557371307
+    nsecs: 908224106
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80259165228
+    y: 0.623362409842
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967043
+    w: 0.999976814884
+header: 
+  seq: 3565
+  stamp: 
+    secs: 1557371307
+    nsecs: 948120117
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80253309037
+    y: 0.62336320102
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967043
+    w: 0.999976814884
+header: 
+  seq: 3566
+  stamp: 
+    secs: 1557371307
+    nsecs: 988848925
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80249168953
+    y: 0.623363762255
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967044
+    w: 0.999976814884
+header: 
+  seq: 3567
+  stamp: 
+    secs: 1557371308
+    nsecs:  10946035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80245477268
+    y: 0.62336426036
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967044
+    w: 0.999976814884
+header: 
+  seq: 3568
+  stamp: 
+    secs: 1557371308
+    nsecs:  47782898
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80239791767
+    y: 0.623365028452
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967045
+    w: 0.999976814884
+header: 
+  seq: 3569
+  stamp: 
+    secs: 1557371308
+    nsecs:  88963985
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80235241678
+    y: 0.623365643437
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967045
+    w: 0.999976814884
+header: 
+  seq: 3570
+  stamp: 
+    secs: 1557371308
+    nsecs: 118290901
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8023094402
+    y: 0.623366223764
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3571
+  stamp: 
+    secs: 1557371308
+    nsecs: 147581100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80229687452
+    y: 0.623366394909
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967045
+    w: 0.999976814884
+header: 
+  seq: 3572
+  stamp: 
+    secs: 1557371308
+    nsecs: 189352036
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80225130985
+    y: 0.623367012225
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967045
+    w: 0.999976814884
+header: 
+  seq: 3573
+  stamp: 
+    secs: 1557371308
+    nsecs: 207602978
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80221140425
+    y: 0.623367549398
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967045
+    w: 0.999976814884
+header: 
+  seq: 3574
+  stamp: 
+    secs: 1557371308
+    nsecs: 247798920
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80218058735
+    y: 0.62336796584
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3575
+  stamp: 
+    secs: 1557371308
+    nsecs: 287273884
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80215095175
+    y: 0.623368366334
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3576
+  stamp: 
+    secs: 1557371308
+    nsecs: 307631969
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80213076628
+    y: 0.623368639026
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3577
+  stamp: 
+    secs: 1557371308
+    nsecs: 347523928
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80210129689
+    y: 0.623369037273
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3578
+  stamp: 
+    secs: 1557371308
+    nsecs: 388583899
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80206633152
+    y: 0.623369509845
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3579
+  stamp: 
+    secs: 1557371308
+    nsecs: 416467905
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8020393778
+    y: 0.623369873744
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3580
+  stamp: 
+    secs: 1557371308
+    nsecs: 455507040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80201123927
+    y: 0.62337025402
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3581
+  stamp: 
+    secs: 1557371308
+    nsecs: 467900038
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80200942325
+    y: 0.623370278755
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3582
+  stamp: 
+    secs: 1557371308
+    nsecs: 508754969
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80197694991
+    y: 0.623370717608
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3583
+  stamp: 
+    secs: 1557371308
+    nsecs: 546715021
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80195320058
+    y: 0.623371038603
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3584
+  stamp: 
+    secs: 1557371308
+    nsecs: 590945005
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80192661453
+    y: 0.623371398004
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3585
+  stamp: 
+    secs: 1557371308
+    nsecs: 624305010
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8019028905
+    y: 0.623371718452
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3586
+  stamp: 
+    secs: 1557371308
+    nsecs: 646646976
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80189758745
+    y: 0.62337179068
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3587
+  stamp: 
+    secs: 1557371308
+    nsecs: 666726112
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80188270701
+    y: 0.623371991449
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3588
+  stamp: 
+    secs: 1557371308
+    nsecs: 707151890
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8018572865
+    y: 0.62337233523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3589
+  stamp: 
+    secs: 1557371308
+    nsecs: 748444080
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80183397271
+    y: 0.62337265023
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3590
+  stamp: 
+    secs: 1557371308
+    nsecs: 793817043
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8018173803
+    y: 0.623372874609
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3591
+  stamp: 
+    secs: 1557371308
+    nsecs: 824754953
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80179965531
+    y: 0.623373113909
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3592
+  stamp: 
+    secs: 1557371308
+    nsecs: 846034050
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8017954186
+    y: 0.623373171613
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3593
+  stamp: 
+    secs: 1557371308
+    nsecs: 885962009
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80177836471
+    y: 0.623373402213
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3594
+  stamp: 
+    secs: 1557371308
+    nsecs: 915626049
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80176216282
+    y: 0.623373620568
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3595
+  stamp: 
+    secs: 1557371308
+    nsecs: 952869892
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80174932788
+    y: 0.623373793873
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3596
+  stamp: 
+    secs: 1557371308
+    nsecs: 990987062
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80173679386
+    y: 0.623373964586
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3597
+  stamp: 
+    secs: 1557371309
+    nsecs:  25945902
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80172298031
+    y: 0.623374151136
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3598
+  stamp: 
+    secs: 1557371309
+    nsecs:  45895100
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80171595395
+    y: 0.623374245336
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3599
+  stamp: 
+    secs: 1557371309
+    nsecs:  86708069
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80170036388
+    y: 0.623374456013
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3600
+  stamp: 
+    secs: 1557371309
+    nsecs: 125652075
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80168902671
+    y: 0.623374609245
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3601
+  stamp: 
+    secs: 1557371309
+    nsecs: 145885944
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80168386158
+    y: 0.623374679594
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3602
+  stamp: 
+    secs: 1557371309
+    nsecs: 186634064
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80167144966
+    y: 0.623374847429
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3603
+  stamp: 
+    secs: 1557371309
+    nsecs: 225321054
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80165735963
+    y: 0.623375038486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3604
+  stamp: 
+    secs: 1557371309
+    nsecs: 247071028
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80165240061
+    y: 0.623375104555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3605
+  stamp: 
+    secs: 1557371309
+    nsecs: 286353111
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80164367002
+    y: 0.623375222629
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3606
+  stamp: 
+    secs: 1557371309
+    nsecs: 328876019
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80163044999
+    y: 0.623375401169
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3607
+  stamp: 
+    secs: 1557371309
+    nsecs: 346885920
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80162824441
+    y: 0.623375431209
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3608
+  stamp: 
+    secs: 1557371309
+    nsecs: 385323048
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80161915655
+    y: 0.623375554239
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3609
+  stamp: 
+    secs: 1557371309
+    nsecs: 424838066
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80161102449
+    y: 0.623375664063
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3610
+  stamp: 
+    secs: 1557371309
+    nsecs: 446701050
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80160370524
+    y: 0.623375762746
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3611
+  stamp: 
+    secs: 1557371309
+    nsecs: 484774113
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.801597382
+    y: 0.623375848113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3612
+  stamp: 
+    secs: 1557371309
+    nsecs: 524656057
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80158959598
+    y: 0.623375953345
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3613
+  stamp: 
+    secs: 1557371309
+    nsecs: 545492887
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80158697691
+    y: 0.623375989017
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3614
+  stamp: 
+    secs: 1557371309
+    nsecs: 584441900
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80157832163
+    y: 0.623376105866
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3615
+  stamp: 
+    secs: 1557371309
+    nsecs: 625173092
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80157225866
+    y: 0.62337618802
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3616
+  stamp: 
+    secs: 1557371309
+    nsecs: 664298058
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80155438215
+    y: 0.623376431498
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3617
+  stamp: 
+    secs: 1557371309
+    nsecs: 685303926
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80156031827
+    y: 0.623376349655
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3618
+  stamp: 
+    secs: 1557371309
+    nsecs: 724196911
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80155314568
+    y: 0.623376446848
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3619
+  stamp: 
+    secs: 1557371309
+    nsecs: 764978886
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80154871252
+    y: 0.623376506473
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3620
+  stamp: 
+    secs: 1557371309
+    nsecs: 785020113
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80154573865
+    y: 0.623376546486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3621
+  stamp: 
+    secs: 1557371309
+    nsecs: 827203035
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.801540955
+    y: 0.623376611019
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3622
+  stamp: 
+    secs: 1557371309
+    nsecs: 864847898
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80153599449
+    y: 0.62337667846
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3623
+  stamp: 
+    secs: 1557371309
+    nsecs: 891540051
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80153352273
+    y: 0.623376711439
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3624
+  stamp: 
+    secs: 1557371309
+    nsecs: 933041096
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80152955108
+    y: 0.623376765046
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3625
+  stamp: 
+    secs: 1557371309
+    nsecs: 963859081
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80152514504
+    y: 0.623376825056
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3626
+  stamp: 
+    secs: 1557371309
+    nsecs: 984266996
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80152403461
+    y: 0.623376839812
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3627
+  stamp: 
+    secs: 1557371310
+    nsecs:  25062084
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.801519819
+    y: 0.623376896769
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3628
+  stamp: 
+    secs: 1557371310
+    nsecs:  66525936
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80151613773
+    y: 0.623376946333
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3629
+  stamp: 
+    secs: 1557371310
+    nsecs:  84016085
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80151483353
+    y: 0.623376964096
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3630
+  stamp: 
+    secs: 1557371310
+    nsecs: 124365091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80150749477
+    y: 0.623377063877
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3631
+  stamp: 
+    secs: 1557371310
+    nsecs: 163726091
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80150648173
+    y: 0.623377077137
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3632
+  stamp: 
+    secs: 1557371310
+    nsecs: 203532934
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80150318928
+    y: 0.62337712163
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3633
+  stamp: 
+    secs: 1557371310
+    nsecs: 233731985
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80150063873
+    y: 0.623377155975
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3634
+  stamp: 
+    secs: 1557371310
+    nsecs: 271034002
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80149780525
+    y: 0.623377194282
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3635
+  stamp: 
+    secs: 1557371310
+    nsecs: 302802086
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80149402451
+    y: 0.623377245776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3636
+  stamp: 
+    secs: 1557371310
+    nsecs: 322947979
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80149448041
+    y: 0.623377239242
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3637
+  stamp: 
+    secs: 1557371310
+    nsecs: 362740040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80149267872
+    y: 0.623377263531
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3638
+  stamp: 
+    secs: 1557371310
+    nsecs: 402647018
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80149000654
+    y: 0.623377299664
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3639
+  stamp: 
+    secs: 1557371310
+    nsecs: 443316936
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80148814796
+    y: 0.623377324752
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3640
+  stamp: 
+    secs: 1557371310
+    nsecs: 462543011
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014868317
+    y: 0.62337734258
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3641
+  stamp: 
+    secs: 1557371310
+    nsecs: 502868891
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80148422173
+    y: 0.62337737793
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3642
+  stamp: 
+    secs: 1557371310
+    nsecs: 543262959
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80148265627
+    y: 0.623377399
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3643
+  stamp: 
+    secs: 1557371310
+    nsecs: 564858913
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014817841
+    y: 0.623377410662
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3644
+  stamp: 
+    secs: 1557371310
+    nsecs: 604854107
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014798943
+    y: 0.623377436201
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3645
+  stamp: 
+    secs: 1557371310
+    nsecs: 643450975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147537633
+    y: 0.623377497736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3646
+  stamp: 
+    secs: 1557371310
+    nsecs: 662106037
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147687319
+    y: 0.623377477126
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3647
+  stamp: 
+    secs: 1557371310
+    nsecs: 701915026
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147538502
+    y: 0.623377497229
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3648
+  stamp: 
+    secs: 1557371310
+    nsecs: 732352972
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147433279
+    y: 0.623377511374
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3649
+  stamp: 
+    secs: 1557371310
+    nsecs: 761765003
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147384386
+    y: 0.623377517933
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3650
+  stamp: 
+    secs: 1557371310
+    nsecs: 802675962
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80147235629
+    y: 0.623377538039
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3651
+  stamp: 
+    secs: 1557371310
+    nsecs: 842338085
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146673821
+    y: 0.623377614557
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3652
+  stamp: 
+    secs: 1557371310
+    nsecs: 863576889
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146940904
+    y: 0.623377577989
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3653
+  stamp: 
+    secs: 1557371310
+    nsecs: 901463985
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014684939
+    y: 0.623377590314
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3654
+  stamp: 
+    secs: 1557371310
+    nsecs: 941371918
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146727323
+    y: 0.623377606777
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3655
+  stamp: 
+    secs: 1557371310
+    nsecs: 981278896
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146608078
+    y: 0.623377622895
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3656
+  stamp: 
+    secs: 1557371311
+    nsecs:   2892971
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146512036
+    y: 0.623377635955
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3657
+  stamp: 
+    secs: 1557371311
+    nsecs:  42016983
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146164015
+    y: 0.623377683294
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3658
+  stamp: 
+    secs: 1557371311
+    nsecs:  63081980
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146307236
+    y: 0.623377663618
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3659
+  stamp: 
+    secs: 1557371311
+    nsecs: 106447935
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146162459
+    y: 0.623377683221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3660
+  stamp: 
+    secs: 1557371311
+    nsecs: 124603033
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146089668
+    y: 0.623377693135
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3661
+  stamp: 
+    secs: 1557371311
+    nsecs: 164552927
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80146048831
+    y: 0.623377698574
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3662
+  stamp: 
+    secs: 1557371311
+    nsecs: 209476948
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014590996
+    y: 0.623377717418
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3663
+  stamp: 
+    secs: 1557371311
+    nsecs: 240876913
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145918272
+    y: 0.623377716167
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3664
+  stamp: 
+    secs: 1557371311
+    nsecs: 261023045
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145807053
+    y: 0.623377731315
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3665
+  stamp: 
+    secs: 1557371311
+    nsecs: 306759119
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145693833
+    y: 0.623377746643
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3666
+  stamp: 
+    secs: 1557371311
+    nsecs: 343772888
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014566806
+    y: 0.623377750055
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3667
+  stamp: 
+    secs: 1557371311
+    nsecs: 381880999
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145655206
+    y: 0.623377751717
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3668
+  stamp: 
+    secs: 1557371311
+    nsecs: 408246040
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145642844
+    y: 0.623377753343
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3669
+  stamp: 
+    secs: 1557371311
+    nsecs: 440912008
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145448165
+    y: 0.623377779858
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3670
+  stamp: 
+    secs: 1557371311
+    nsecs: 480370998
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145280825
+    y: 0.623377802593
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3671
+  stamp: 
+    secs: 1557371311
+    nsecs: 501771927
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145411007
+    y: 0.623377784763
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3672
+  stamp: 
+    secs: 1557371311
+    nsecs: 540503979
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145343616
+    y: 0.623377793911
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3673
+  stamp: 
+    secs: 1557371311
+    nsecs: 583827019
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145298902
+    y: 0.623377799915
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3674
+  stamp: 
+    secs: 1557371311
+    nsecs: 600158930
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145233566
+    y: 0.623377808814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3675
+  stamp: 
+    secs: 1557371311
+    nsecs: 646929026
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014524317
+    y: 0.623377807415
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3676
+  stamp: 
+    secs: 1557371311
+    nsecs: 680358887
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145067841
+    y: 0.623377831294
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3677
+  stamp: 
+    secs: 1557371311
+    nsecs: 719692945
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145026532
+    y: 0.623377836868
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3678
+  stamp: 
+    secs: 1557371311
+    nsecs: 739697933
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145115021
+    y: 0.623377824762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3679
+  stamp: 
+    secs: 1557371311
+    nsecs: 779620886
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145098862
+    y: 0.623377826918
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3680
+  stamp: 
+    secs: 1557371311
+    nsecs: 819854975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145057403
+    y: 0.623377832527
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3681
+  stamp: 
+    secs: 1557371311
+    nsecs: 849487066
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145035648
+    y: 0.623377835446
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3682
+  stamp: 
+    secs: 1557371311
+    nsecs: 879714012
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145002659
+    y: 0.623377839924
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3683
+  stamp: 
+    secs: 1557371311
+    nsecs: 899707079
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80145016164
+    y: 0.623377838054
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3684
+  stamp: 
+    secs: 1557371311
+    nsecs: 950321913
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144955792
+    y: 0.623377846226
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3685
+  stamp: 
+    secs: 1557371311
+    nsecs: 979227066
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144910809
+    y: 0.623377852343
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3686
+  stamp: 
+    secs: 1557371312
+    nsecs:  20705938
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144816187
+    y: 0.623377865205
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3687
+  stamp: 
+    secs: 1557371312
+    nsecs:  41923046
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144886844
+    y: 0.62337785554
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3688
+  stamp: 
+    secs: 1557371312
+    nsecs:  79116106
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144789076
+    y: 0.623377868849
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3689
+  stamp: 
+    secs: 1557371312
+    nsecs: 120558023
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144686966
+    y: 0.623377882731
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3690
+  stamp: 
+    secs: 1557371312
+    nsecs: 139285088
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144790631
+    y: 0.623377868577
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3691
+  stamp: 
+    secs: 1557371312
+    nsecs: 178843975
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144744116
+    y: 0.623377874883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3692
+  stamp: 
+    secs: 1557371312
+    nsecs: 220125914
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144718506
+    y: 0.623377878341
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3693
+  stamp: 
+    secs: 1557371312
+    nsecs: 245445967
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144713509
+    y: 0.623377879006
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3694
+  stamp: 
+    secs: 1557371312
+    nsecs: 279891014
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144704699
+    y: 0.623377880185
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3695
+  stamp: 
+    secs: 1557371312
+    nsecs: 319483042
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144539908
+    y: 0.62337790263
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3696
+  stamp: 
+    secs: 1557371312
+    nsecs: 338319063
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144636638
+    y: 0.62337788943
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3697
+  stamp: 
+    secs: 1557371312
+    nsecs: 378175020
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144616868
+    y: 0.623377892099
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3698
+  stamp: 
+    secs: 1557371312
+    nsecs: 418056011
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144607693
+    y: 0.62337789333
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3699
+  stamp: 
+    secs: 1557371312
+    nsecs: 443888903
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144619328
+    y: 0.623377891726
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3700
+  stamp: 
+    secs: 1557371312
+    nsecs: 488085032
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.801446009
+    y: 0.623377894215
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3701
+  stamp: 
+    secs: 1557371312
+    nsecs: 517868996
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144519148
+    y: 0.62337790535
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3702
+  stamp: 
+    secs: 1557371312
+    nsecs: 539212942
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144554938
+    y: 0.62337790046
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3703
+  stamp: 
+    secs: 1557371312
+    nsecs: 577754974
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144556386
+    y: 0.623377900245
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3704
+  stamp: 
+    secs: 1557371312
+    nsecs: 618098021
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144549121
+    y: 0.623377901219
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3705
+  stamp: 
+    secs: 1557371312
+    nsecs: 643759966
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.8014455402
+    y: 0.623377900537
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3706
+  stamp: 
+    secs: 1557371312
+    nsecs: 690063953
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144542414
+    y: 0.623377902101
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3707
+  stamp: 
+    secs: 1557371312
+    nsecs: 719456911
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144472347
+    y: 0.623377911644
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3708
+  stamp: 
+    secs: 1557371312
+    nsecs: 757441998
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144461361
+    y: 0.623377913127
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3709
+  stamp: 
+    secs: 1557371312
+    nsecs: 777393103
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144505347
+    y: 0.623377907123
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3710
+  stamp: 
+    secs: 1557371312
+    nsecs: 817126036
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144490655
+    y: 0.623377909112
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3711
+  stamp: 
+    secs: 1557371312
+    nsecs: 857494116
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.801444827
+    y: 0.623377910183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884
+header: 
+  seq: 3712
+  stamp: 
+    secs: 1557371312
+    nsecs: 897141933
+  frame_id: "odom"
+pose: 
+  position: 
+    x: 2.80144474775
+    y: 0.62337791125
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00680952967046
+    w: 0.999976814884

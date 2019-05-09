@@ -61,10 +61,10 @@ while(keyPress != USER_QUIT):
 	keyPress = getch.getArrow()
 
 	if((keyPress == KEY_UP) and (twist.linear.x == 0)):
-		twist.linear.x = 0.3
+		twist.linear.x = 0.25
 		twist.angular.z = 0
 		pub.publish(twist)
-		rospy.Timer(rospy.Duration(10), callback4, oneshot=True)
+		rospy.Timer(rospy.Duration(5), callback4, oneshot=True)
 		'''twist.linear.x = 0.25
 		twist.angular.z = 0.2
 		pub.publish(twist)
