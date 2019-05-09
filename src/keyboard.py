@@ -34,7 +34,7 @@ while(keyPress != USER_QUIT):
 	elif((keyPress == KEY_UP) and (twist.linear.x == -0.1)):
 		twist.linear.x = 0
 
-	elif((keyPress == KEY_DOWN) and (twist.linear.x == 0.25)):
+	elif((keyPress == KEY_DOWN) and (twist.linear.x>0)):
 		twist.linear.x = 0
 
 	elif(keyPress == KEY_DOWN) and (twist.linear.x == 0):
