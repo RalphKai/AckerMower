@@ -127,7 +127,7 @@ class Self_odom():
 
 		# publish tf
 		
-		rospy.loginfo("pub_tf: " + str(self.x) + ", "+ str(self.y) +", " +str(yaw))
+		# rospy.loginfo("pub_tf: " + str(self.x) + ", "+ str(self.y) +", " +str(yaw))
 
 		'''self.tf_broadcaster.sendTransform(
 			(self.x, self.y, 0.0),

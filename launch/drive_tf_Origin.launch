@@ -68,5 +68,5 @@
 		<!--param name="base_global_planner" value="global_planner/GlobalPlanner"/>
 		<param name="use_dijkstra" value="false"/-->
 	</node>
-	<!--node name="recorder" pkg="rosbag" type="record" args="record -o /home/nvidia/Desktop/bagfile/ /scan /"/-->
+	<!--node name="recorder" pkg="rosbag" type="record" args="record -o /home/nvidia/Desktop/bagfile /sensing "/-->
 </launch>
