@@ -215,6 +215,9 @@ target_link_libraries(tf_broadcaster ${catkin_LIBRARIES})
 add_executable(move_square src/move_base_square.cpp)
 target_link_libraries(move_square ${catkin_LIBRARIES})
 
+add_executable(pure_pursuit src/Pure_Pursuit.cpp)
+target_link_libraries(pure_pursuit ${catkin_LIBRARIES})
+
 #add_executable(move_square src/move_base_square.cpp)
 #target_link_libraries(move_square ${catkin_LIBRARIES})
 #add_dependencies(move_square imove_base_square_cpp)

@@ -10,6 +10,7 @@ from geometry_msgs.msg import Twist, Point, Quaternion, Vector3, Pose
 from std_msgs.msg import Float32
 from std_msgs.msg import Float32MultiArray
 from nav_msgs.msg import Odometry
+from ackermann_msgs.msg import AckermannDriveStamped
 
 class Self_odom():
 	def __init__(self):
@@ -25,10 +26,10 @@ class Self_odom():
 		self.rpm = 0
 		self.tf_broadcaster = tf.TransformBroadcaster()
 		self.odom_pub = rospy.Publisher("/odom_fake", Odometry, queue_size=10)
-		self.cmd_subscriber = rospy.Subscriber("/cmd_vel", Twist, self.call_back_cmd)
-		rospy.Rate(30)
+		self.cmd_subscriber = rospy.Subscriber("/cmd_vel", AckermannDriveStamped, self.call_back_cmd)
+		rospy.Rate(20)
 		self.sensor_subscriber = rospy.Subscriber("/sensing", Float32, self.call_back)
-		rospy.Rate(30)
+		rospy.Rate(20)
 		self.current_time = rospy.Time.now()
 		self.last_time = rospy.Time.now()	
 		rospy.on_shutdown(self.shutdownhook)
@@ -42,12 +43,11 @@ class Self_odom():
 		
 
 	def call_back_cmd(self, cmd):	
-		self.cmd_x = cmd.linear.x 
+		self.cmd_x = cmd.drive.speed*1.08
 		if self.cmd_x <= 0.246 and self.cmd_x >0:
 			self.cmd_x = 0.246
-			
  	
-		self.z = cmd.angular.z 
+		self.z = cmd.drive.steering_angle 
 		rospy.loginfo("cmd_from_teb: "+ str(self.cmd_x) + ", "+ str(self.z))
 		
 		
