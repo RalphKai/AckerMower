@@ -56,13 +56,7 @@
 		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="local_costmap"/>
 		<rosparam file="$(find mower)/config/global_costmap.yaml" command="load" />		
 		<rosparam file="$(find mower)/config/local_costmap.yaml" command="load" />
-		<rosparam file="$(find mower)/config/my_teb_local_planner.yaml" command="load"/>
-
-		<param name="base_global_planner" value="global_planner/GlobalPlanner" />
-		<param name="planner_frequency" value="1.0" />
-		<param name="planner_patience" value="5.0" />
-		<param name="base_local_planner" value="base_local_planner/TrajectoryPlannerROS"/>
-		<rosparam file="$(find mower)/config/base_local_planner.yaml"/>
+		<rosparam file="$(find mower)/config/dwa_local_planner.yaml" command="load"/>
 		<remap from="/cmd_vel" to="/fake_cmd" />
 		
 		<!--param name="base_global_planner" value="global_planner/GlobalPlanner"/>

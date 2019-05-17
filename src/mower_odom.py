@@ -53,11 +53,11 @@ class Self_odom():
 		
 	def tf_config(self):
 		#rospy.loginfo("odomcallback_check:"+ str(self.rpm) + ", "+str(self.cmd_x))
-		if self.cmd_x>0 and self.rpm>0:
+		if self.cmd_x>0:
 			self.vx = self.cmd_x  # + 0.1 * ((self.rpm+11.603)/0.082)
 			#rospy.loginfo("odomcallback vx: "+ str(self.vx))
 		elif self.cmd_x<0 and self.rpm>0:
-			self.vx = self.cmd_x 
+			self.vx = -0.189 
 
 		else:
 			self.vx = 0

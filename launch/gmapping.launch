@@ -1,0 +1,68 @@
+<launch>
+
+    	<arg name="init_x" default="0.6" />
+    	<arg name="init_y" default="0.6" />
+    	<arg name="init_a" default="0" />
+
+	<node name="odom_pub" pkg="mower" type="mower_odom.py" output="screen" />
+	
+        <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find mower)/urdf/mower_body.urdf.xacro'" />
+	
+	<node name="map_server_amcl" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map_amcl.yaml">
+		<remap from="map" to="map_amcl"/>
+	</node>
+
+    	<node name="map_server_nav" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map2.yaml"/>
+
+	
+
+    	<node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 0 /map /odom 100"/>
+	
+
+	<arg name="razor_config_file" default="$(find razor_imu_9dof)/config/my_razor.yaml"/>
+  	<node pkg="razor_imu_9dof" type="imu_node.py" name="imu_node" output="screen">
+   	 <rosparam file="$(arg razor_config_file)" command="load"/>
+  	</node>
+
+	<!--<node name="mower_laser_tf" pkg="mower" type="tf_broadcaster" />-->
+	
+    	<node pkg="tf" type="static_transform_publisher" name="base_link2laser_link" args="0.2 0 0.08 0 0 0 /base_link /scan 30"/>
+	<node pkg="tf" type="static_transform_publisher" name="base_link2laser_link2" args="0.2 0 0 0 0 0 /scan /camera_link 30"/>
+    	<node pkg="tf" type="static_transform_publisher" name="base_link2imu" args="0.1275 0.0 0.0 3.1416 0 3.1416 /base_link /imu 30"/>
+
+
+    	<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+    	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+	<include file="$(find moveit_cfg)/launch/planning_context.launch"/>
+
+	<node pkg="robot_localization" type="ekf_localization_node" name="ekf" clear_params="true">
+		<rosparam file="$(find mower)/param/gmapping_ekf.yaml" command="load" />
+		<remap from="/odometry/filtered" to="/odom"/>
+	</node>
+
+	<node name="cmd_converter" pkg="mower" type="cmd_converter.py" required="true" output="screen"/>
+	<node name="path_record" pkg="mower" type="path_record.py" />
+
+    	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find mower)/rviz/gmapping.rviz" />
+
+
+        <node pkg="move_base" type="move_base" respawn="false" name="moveBase">
+		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="global_costmap"/>
+		<rosparam file="$(find mower)/config/costmap.yaml" command="load" ns="local_costmap"/>
+		<rosparam file="$(find mower)/config/global_costmap.yaml" command="load" />		
+		<rosparam file="$(find mower)/config/local_costmap.yaml" command="load" />
+		<rosparam file="$(find mower)/config/my_teb_local_planner.yaml" command="load"/>
+
+		<param name="base_global_planner" value="global_planner/GlobalPlanner" />
+		<param name="planner_frequency" value="1.0" />
+		<param name="planner_patience" value="5.0" />
+		<param name="base_local_planner" value="teb_local_planner/TebLocalPlannerROS"/>
+		<param name="controller_frequency" value="10.0" />
+		<param name="controller_patience" value="15.0" />
+		
+		<!--param name="base_global_planner" value="global_planner/GlobalPlanner"/>
+		<param name="use_dijkstra" value="false"/-->
+	</node>
+	
+	<!--node name="recorder" pkg="rosbag" type="record" args="record -o /home/nvidia/Desktop/bagfile/ /scan /"/-->
+</launch>

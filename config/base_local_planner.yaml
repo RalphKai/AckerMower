@@ -8,9 +8,9 @@ TrajectoryPlannerROS:
    max_vel_y: 0.0  # zero for a differential drive robot
    min_vel_y: 0.0
    max_vel_theta: 0.25
-   min_vel_theta: 0.0
-   min_in_place_vel_theta: 0
-   escape_vel: 0.2 # backward speed
+   min_vel_theta: -0.25
+   min_in_place_rotational_theta: 0.5
+   escape_vel: -0.2 # backward speed
    acc_lim_x: 0.2  # miles / senconds ^ 2
    acc_lim_y: 0.0  # zero for a differential drive robot
    acc_lim_theta: 0.2

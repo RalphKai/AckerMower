@@ -12,18 +12,20 @@ KEY_LEFT = 68
 USER_QUIT = 100
 
 MAX_FORWARD = 180
-MAX_LEFT = 47
+MAX_LEFT = 60
+
 MIN_FORWARD = 100
 MIN_LEFT = 0
 
 forward = 130.0
-left = 27
+left = 30
 keyPress = 0
 
 forward_init = 130.0
-left_init = 27
+left_init = 30
     
-forward_HIGH = 151.0
+
+forward_HIGH = 145.0
 
 twist = Twist()
 twist.linear.x = forward_init

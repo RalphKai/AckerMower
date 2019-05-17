@@ -1,0 +1,7 @@
+image: /home/nvidia/jetsonbot/src/mower/fake_map/map_gmapping2_edit.png
+resolution: 0.050000
+origin: [0.000000, -0.300000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

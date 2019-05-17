@@ -17,13 +17,13 @@ MIN_FORWARD = 100
 MIN_LEFT = 0
 
 forward = 130.0
-left = 28
+left = 30
 keyPress = 0
 
 forward_init = 130.0
-left_init = 28
+left_init = 30
     
-forward_HIGH = 144.0
+forward_HIGH = 145
 
 twist = Twist()
 twist.linear.x = forward_init

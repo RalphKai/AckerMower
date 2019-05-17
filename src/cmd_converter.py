@@ -45,24 +45,24 @@ class Converter():
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)'''
 		self.current = rospy.Time.now()
-		if self.rpm < 1 and self.pwm_x == 103 and (self.current - self.last_time) >= rospy.Duration(secs=1):	# backward failed at last time
+		if self.rpm < 1 and self.pwm_x == 108 and (self.current - self.last_time) >= rospy.Duration(secs=1):	# backward failed at last time
 			
 			self.pwm_x = 130
 			self.pub_new_cmd()
-			self.pwm_x = 103
+			self.pwm_x = 108
 			self.pub_new_cmd()
 			self.pwm_x = 130
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
 			self.last_time = rospy.Time.now()
 
-		elif self.rpm >= 1 and self.pwm_x == 103:	# backward continue
+		elif self.rpm >= 1 and self.pwm_x == 108:	# backward continue
 			self.pub_new_cmd()
 
-		elif self.pwm_x != 103:		# other situations need reverse motion
+		elif self.pwm_x != 108:		# other situations need reverse motion
 			self.pwm_x = 130
 			self.pub_new_cmd()
-			self.pwm_x = 103
+			self.pwm_x = 108
 			self.pub_new_cmd()
 			self.pwm_x = 130
 			self.pub_new_cmd()
@@ -72,7 +72,7 @@ class Converter():
 			self.pub_new_cmd()
 		
 	def callback_backward(self, event):
-		self.pwm_x = 103
+		self.pwm_x = 108
 		self.pub_new_cmd()
 
 	def idle(self):
