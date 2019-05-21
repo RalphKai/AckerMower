@@ -1,4 +1,4 @@
-controller_frequency: 10.0   # freq of update trace planning
+controller_frequency: 5   # freq of update trace planning
 recovery_behavior_enabled: true
 clearing_rotation_allowed: false
 
@@ -9,11 +9,13 @@ DWAPlannerROS:
   max_trans_vel: 0.55
   min_trans_vel: 0.2
   max_vel_x: 0.255
-  min_vel_x: -0.1
+  min_vel_x: -0.2
   max_vel_y: 0
   min_vel_y: 0
-  max_rot_vel: 0.25
+  max_rot_vel: 0.298
   min_rot_vel: 0.4
+  escape_vel: -0.2 # backward speed
+
 
   yaw_goal_tolerance: 0.18
   xy_goal_tolerance: 0.25

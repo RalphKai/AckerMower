@@ -21,9 +21,9 @@ class Converter():
 		self.current = self.last_time
 	    	self.cmd_publisher = rospy.Publisher("/cmd_vel_toMotor", Twist, queue_size = 3)
 	    	self.cmd_listener = rospy.Subscriber("/cmd_vel", Twist, self.callback)
-		rospy.Rate(5)
+		rospy.Rate(1)
 		self.sensor_subscriber = rospy.Subscriber("/sensing", Float32, self.call_back_sensor)
-	    	rospy.Rate(5)
+	    	rospy.Rate(1)
 	    	#rospy.spin()
 
 	def forward_cmd(self):
@@ -45,34 +45,39 @@ class Converter():
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)'''
 		self.current = rospy.Time.now()
-		if self.rpm < 1 and self.pwm_x == 108 and (self.current - self.last_time) >= rospy.Duration(secs=1):	# backward failed at last time
-			
+		if self.rpm < 1 and self.pwm_x == 106 and (self.current - self.last_time) >= rospy.Duration(secs=1):	# backward failed at last time
+			rospy.loginfo("backward failed at last time")
 			self.pwm_x = 130
 			self.pub_new_cmd()
-			self.pwm_x = 108
+			self.pwm_x = 106
 			self.pub_new_cmd()
 			self.pwm_x = 130
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
+			# rospy.sleep(0.68)
+			
 			self.last_time = rospy.Time.now()
 
-		elif self.rpm >= 1 and self.pwm_x == 108:	# backward continue
+		elif self.rpm >= 1 and self.pwm_x == 106:	# backward continue
 			self.pub_new_cmd()
 
-		elif self.pwm_x != 108:		# other situations need reverse motion
+		elif self.pwm_x != 106:		# other situations need reverse motion
+			rospy.loginfo("backward not at 106 so failed at last time")
 			self.pwm_x = 130
 			self.pub_new_cmd()
-			self.pwm_x = 108
+			self.pwm_x = 106
 			self.pub_new_cmd()
 			self.pwm_x = 130
 			self.pub_new_cmd()
 			rospy.Timer(rospy.Duration(0.68), self.callback_backward, oneshot=True)
+			# rospy.sleep(0.68)
+			#self.pub_new_cmd()
 			self.last_time = rospy.Time.now()
 		else:		# in case 
 			self.pub_new_cmd()
 		
 	def callback_backward(self, event):
-		self.pwm_x = 108
+		self.pwm_x = 106
 		self.pub_new_cmd()
 
 	def idle(self):

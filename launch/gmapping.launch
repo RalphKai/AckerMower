@@ -40,7 +40,7 @@
 		<remap from="/odometry/filtered" to="/odom"/>
 	</node>
 
-	<node name="cmd_converter" pkg="mower" type="cmd_converter.py" required="true" output="screen"/>
+	<node name="cmd_converter" pkg="mower" type="cmd2pwm.py" required="true" output="screen"/>
 	<node name="path_record" pkg="mower" type="path_record.py" />
 
     	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find mower)/rviz/gmapping.rviz" />
