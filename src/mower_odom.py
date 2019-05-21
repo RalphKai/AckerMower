@@ -43,8 +43,8 @@ class Self_odom():
 
 	def call_back_cmd(self, cmd):	
 		self.cmd_x = cmd.linear.x 
-		if self.cmd_x <= 0.246 and self.cmd_x >0:
-			self.cmd_x = 0.246
+		if self.cmd_x <= 0.219 and self.cmd_x >0:
+			self.cmd_x = 0.219
 			
  	
 		self.z = cmd.angular.z 
@@ -57,7 +57,7 @@ class Self_odom():
 			self.vx = self.cmd_x  # + 0.1 * ((self.rpm+11.603)/0.082)
 			#rospy.loginfo("odomcallback vx: "+ str(self.vx))
 		elif self.cmd_x<0 and self.rpm>0:
-			self.vx = -0.189 
+			self.vx = -0.127 
 
 		else:
 			self.vx = 0
