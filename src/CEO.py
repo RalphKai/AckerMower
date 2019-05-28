@@ -4,9 +4,10 @@ import rospy
 import actionlib
 
 from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
+from geometry_msgs.msg import PoseStamped
 
 def movebase_client():
-
+	
 	client = actionlib.SimpleActionClient('move_base', MoveBaseAction)
 	
 	client.wait_for_server()
@@ -22,7 +23,7 @@ def movebase_client():
 	
 	client.send_goal(goal)
 	wait = client.wait_for_result()
-
+	
 	if not wait:
 		rospy.logerr("Action server not available!")
 		rospy.signal_shutdown("Action server not available!")
