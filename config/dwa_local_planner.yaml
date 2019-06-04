@@ -17,7 +17,7 @@ DWAPlannerROS:
   escape_vel: -0.2 # backward speed
 
 
-  yaw_goal_tolerance: 0.18
+  yaw_goal_tolerance: 0.25
   xy_goal_tolerance: 0.25
   latch_xy_goal_tolerance: true
 

@@ -69,7 +69,7 @@
 		<param name="use_dijkstra" value="false"/-->
 	</node>
 	<!--node name="recorder" pkg="rosbag" type="record" args="record -o /home/nvidia/Desktop/bagfile /sensing "/-->
-
+	<node name="path_record" pkg="mower" type="path_record.py"/>
 	
 
 </launch>

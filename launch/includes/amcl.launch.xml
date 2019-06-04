@@ -15,7 +15,7 @@
         <!-- translation std dev, m -->
         <param name="odom_alpha1" value=".7"/>
         <param name="odom_alpha2" value=".1"/>
-        <param name="odom_alpha3" value="3"/>
+        <param name="odom_alpha3" value=".8"/>
         <param name="odom_alpha4" value="0.1"/>
         <param name="laser_z_hit" value="0.8"/>
         <param name="laser_z_short" value="0.05"/>
