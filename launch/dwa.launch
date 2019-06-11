@@ -14,12 +14,14 @@
 
     	<node name="map_server_nav" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map2.yaml"/>
 
-	
+	<node name="map_server_show" pkg="map_server" type="map_server" args="$(find mower)/fake_map/map_f.yaml">
+		<remap from="map" to="map_f"/>
+	</node>
 
     	<!--node name="static_map" pkg="tf" type="static_transform_publisher" args="0 0 0 0 0 1 /map_amcl /map 100"/-->
 	
 
-	<arg name="razor_config_file" default="$(find razor_imu_9dof)/config/my_razor.yaml"/>
+	<arg name="razor_config_file" default="$(find razor_imu_9dof)/config/my_razor.yaml"/>Q
   	<node pkg="razor_imu_9dof" type="imu_node.py" name="imu_node" output="screen">
    	 <rosparam file="$(arg razor_config_file)" command="load"/>
   	</node>

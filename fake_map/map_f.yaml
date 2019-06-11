@@ -1,4 +1,4 @@
-image: /home/nvidia/jetsonbot/src/mower/fake_map/map_gmapping2_amcl_obs.png
+image: /home/nvidia/jetsonbot/src/mower/fake_map/map_gmapping2_edit.png
 resolution: 0.050000
 origin: [0.000000, -0.300000, 0.000000]
 negate: 0
