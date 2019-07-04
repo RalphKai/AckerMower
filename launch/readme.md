@@ -1,4 +1,9 @@
-gazebo: mower_gazebo.launch 
- cmd: rosrun gazebo_ros spawn_model -file /home/nvidia/jetsonbot/src/mower/urdf/mower_gazebo.urdf.xacro -urdf -z 1 -model mower
- 
+## Main launch file
+Launch the system with several launch files to get different functions.
 
+## navigation
+```
+roslaunch mower arduino_part.launch  # rosserial
+roslaunch mower D435_tolaser.launch  # convert 3D depthImage to 2D laserscan
+roslaunch mower dwa.launch           # main function
+```
