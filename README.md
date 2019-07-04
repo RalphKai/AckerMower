@@ -6,4 +6,4 @@ Research implemented by ROS and Remote control car with Ackermann steering syste
 ![image](https://github.com/RalphKai/AckerMower/blob/master/referenceImage/body.jpg)
 
 ## hardware specs
-![image](https://github.com/RalphKai/AckerMower/blob/master/referenceImage/specs.jpg)
+![image](https://github.com/RalphKai/AckerMower/blob/master/referenceImage/specs.png)
