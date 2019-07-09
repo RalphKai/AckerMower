@@ -8,4 +8,4 @@ mower_odom.py --> calculate the motion model and publish tf、odom <every launch
 
 hall_converter.py --> convert hall sensor value to velocity
 
-cmd2pwm.py --> translate the command velocaities to pwm signals
+cmd2pwm.py --> translate the command velocaities into pwm signals
